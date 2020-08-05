@@ -1,7 +1,7 @@
 ---
 title: "Neural-Symbolic Probabilistic Argumentation Machines"
-collection: publications
-permalink: /publication/2020_Neural_Symbolic_Probabilistic_Argumentation_Machines
+collection: research
+permalink: /research/2020_Neural_Symbolic_Probabilistic_Argumentation_Machines
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
