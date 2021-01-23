@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "nesy"
-permalink: /nesy/
+title: "chizon"
+permalink: /chizon/
 author_profile: true
 redirect_from:
   - /resume
