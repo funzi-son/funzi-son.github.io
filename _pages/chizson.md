@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "chizon"
+title: "chizson"
 permalink: /chizson/
 author_profile: true
 redirect_from:
