@@ -25,6 +25,7 @@ Tutorial
 
 <details>
  <summary>Symbolic Neural Predicate</summary>
+
   * Auto-Encoderr NP
   * RBM NP
 </details>
