@@ -26,20 +26,28 @@ Tutorial
 <details>
  <summary>Symbolic Neural Predicate</summary>
 
-  * Auto-Encoderr NP
-  * RBM NP
-</details>
-
-
-# A collapsible section with markdown
-<details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+  <ul>
+  <li>Level 1  
+    <ul>
+      <li>Level 2</li>
+      <li>Level 3
+        <ul>
+          <li>Level 4</li>
+          <li>Level 5
+            <ul>
+              <li>Level 6</li>
+              <li>Level 7
+                <ul>
+                  <li>Level 8</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 </details>
 
 
