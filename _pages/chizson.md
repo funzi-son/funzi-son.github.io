@@ -11,12 +11,16 @@ redirect_from:
 
 Under construction
 ======
+<details>
+ <summary>Details</summary>
+ hidden, collapsable content...
+</details>
 
-*Step 01: Prepare a knowlege base
-*Step 02: Choose a predicate
-*Step 03: Choose a learning method (or load pre-trained models)
-*Step 04: Choose a reasoning method
-*Step 05: Run
+* Step 01: Prepare a knowlege base
+* Step 02: Choose a predicate
+* Step 03: Choose a learning method (or load pre-trained models)
+* Step 04: Choose a reasoning method
+* Step 05: Run
 
 
 Tutorial
