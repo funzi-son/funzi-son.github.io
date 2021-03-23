@@ -18,11 +18,15 @@ Neuro-Symbolic/Neurosymbolic/Neural-Symbolic,
  
 Benchmark
 ======
-* Promoter
+* The Animal-AI Testbed http://animalaiolympics.com/AAI/
 * additionKB
 * compareKB
 * partofKB
-  
+* Cora [https://relational.fit.cvut.cz/dataset/CORA]
+* blockworld [contact Rabold]
+* visual genome
+* Nations, Kinship, UMLS
+* Promoter
 Bibliography
 ======
 [2021]
