@@ -30,18 +30,23 @@ Tutorial
     <li> Auto-Encoder NP </li>  
     <li> RBM Predicate </li>
   </ul>
-
- <summary>Symbolic Neural Predicate</summary>
-
-  <ul>
-    <li> Auto-Encoder NP </li>  
-    <li> RBM Predicate </li>
-  </ul>
 </details>
 
+<details>
+ <summary>Predictive Neural Predicate</summary>
 
-*Predictive Neural Predicate
-*Generative Neural Predicate
-*Compositional Neural Predicate
-    *xxx
-    *DBN	
+</details>
+
+<details>
+ <summary>Generative Neural Predicate</summary>
+
+</details>
+
+<details>
+ <summary>Compositional Neural Predicate</summary>
+    
+    <ul>
+     <il> Compositional Neural Predicate </il>
+     <il> DBN Predicate</il>
+    </ul>
+</details>	
