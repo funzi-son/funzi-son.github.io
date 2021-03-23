@@ -27,27 +27,16 @@ Tutorial
  <summary>Symbolic Neural Predicate</summary>
 
   <ul>
-  <li>Level 1  
-    <ul>
-      <li>Level 2</li>
-      <li>Level 3
-        <ul>
-          <li>Level 4</li>
-          <li>Level 5
-            <ul>
-              <li>Level 6</li>
-              <li>Level 7
-                <ul>
-                  <li>Level 8</li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-</ul>
+    <li> Auto-Encoder NP </li>  
+    <li> RBM Predicate </li>
+  </ul>
+
+ <summary>Symbolic Neural Predicate</summary>
+
+  <ul>
+    <li> Auto-Encoder NP </li>  
+    <li> RBM Predicate </li>
+  </ul>
 </details>
 
 
