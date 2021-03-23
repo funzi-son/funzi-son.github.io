@@ -22,11 +22,11 @@ Under construction
 Tutorial
 ======
 
-*1. Symbolic Neural Predicate
-    *1. Auto-Encoder NP
-    *2. RBM NP
-*2. Predictive Neural Predicate
-*3. Generative Neural Predicate
-*4. Compositional Neural Predicate
-    *1. xxx
-    *2. DBN	
+*Symbolic Neural Predicate
+    *Auto-Encoder NP
+    *RBM NP
+*Predictive Neural Predicate
+*Generative Neural Predicate
+*Compositional Neural Predicate
+    *xxx
+    *DBN	
