@@ -11,10 +11,6 @@ redirect_from:
 
 Under construction
 ======
-<details>
- <summary>Details</summary>
- hidden, collapsable content...
-</details>
 
 * Step 01: Prepare a knowlege base
 * Step 02: Choose a predicate
@@ -26,9 +22,14 @@ Under construction
 Tutorial
 ======
 
-*Symbolic Neural Predicate
-    *Auto-Encoder NP
-    *RBM NP
+
+<details>
+ <summary>Symbolic Neural Predicate</summary>
+  * Auto-Encoderr NP
+  * RBM NP
+</details>
+
+
 *Predictive Neural Predicate
 *Generative Neural Predicate
 *Compositional Neural Predicate
