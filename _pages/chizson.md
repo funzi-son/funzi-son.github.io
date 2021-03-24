@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Under construction
+User guide
 ======
 
 * Step 01: Prepare a knowlege base
@@ -50,3 +50,6 @@ Tutorial
      <li> DBN Predicate</li>
     </ul>
 </details>	
+
+Developer Guide
+======
