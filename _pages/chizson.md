@@ -18,6 +18,8 @@ User Guide
 * Step 04: Choose a reasoning method
 * Step 05: Run
 
+Examples
+======
 
 Tutorial
 ======
@@ -51,14 +53,14 @@ Tutorial
 
 <details><summary>Reasoning</summary><blockquote>
 
-<details>Chaining</summary><blockquote>
+<details><summary>Chaining</summary><blockquote>
 
 <ul>
  <li>Voted Backward-Forward Chaining </li>
 </ul>
 </blockquote></details>
 
-<details>Best Satisfiability</summary><blockquote>
+<details><summary>Best Satisfiability</summary><blockquote>
 
 <ul>
  <li>Gibbs Sampling Reasoner</li>
