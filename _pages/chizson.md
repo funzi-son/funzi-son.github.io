@@ -22,35 +22,32 @@ User Guide
 Tutorial
 ======
 
+<details><summary> Neural Predicates </summary><blockquote>
 
-<details>
- <summary>Symbolic Neural Predicate</summary>
+<details><summary>Symbolic Neural Predicate</summary><blockquote>
 
   <ul>
     <li> Auto-Encoder NP </li>  
     <li> RBM Predicate </li>
   </ul>
-</details>
+</blockquote></details>
 
-<details>
- <summary>Predictive Neural Predicate</summary>
+<details><summary>Predictive Neural Predicate</summary><blockquote>
 
-</details>
+</blockquote></details>
 
-<details>
- <summary>Generative Neural Predicate</summary>
+<details><summary>Generative Neural Predicate</summary><blockquote>
 
-</details>
+</blockquote></details>
 
-<details>
- <summary>General Neural Predicate</summary>
+<details><summary>General Neural Predicate</summary><blockquote>
     
     <ul>
      <li> Compositional Neural Predicate </li>
      <li> DBN Predicate</li>
     </ul>
-</details>	
-
+</blockquote></details>	
+</blockquote></details>
 
 Developer Guide
 ======
