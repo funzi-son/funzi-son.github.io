@@ -50,13 +50,16 @@ Tutorial
 </blockquote></details>
 
 <details><summary>Reasoning</summary><blockquote>
+
 <details>Chaining</summary><blockquote>
+
 <ul>
  <li>Voted Backward-Forward Chaining </li>
 </ul>
 </blockquote></details>
 
 <details>Best Satisfiability</summary><blockquote>
+
 <ul>
  <li>Gibbs Sampling Reasoner</li>
  <li>Free-Energy Minimiser</li>
