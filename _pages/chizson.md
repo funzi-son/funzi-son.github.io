@@ -21,10 +21,20 @@ User Guide
 Examples
 ======
 
+<details><summary>List of examples </summary>
+
+  <ul>
+    <li> CompareKB </li>  
+    <li> AdditionKB </li>
+    <li> Part-of</li>
+  </ul>
+
+</details>
+
 Tutorial
 ======
 
-<details><summary> Neural Predicates </summary><blockquote>
+<details><summary>Neural Predicates</summary><blockquote>
 
 <details><summary>Symbolic Neural Predicate</summary><blockquote>
 
