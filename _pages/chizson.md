@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-User guide
+User Guide
 ======
 
 * Step 01: Prepare a knowlege base
@@ -51,5 +51,17 @@ Tutorial
     </ul>
 </details>	
 
+
 Developer Guide
 ======
+
+
+
+<details>
+ <summary>Create new neural predicate</summary>
+
+  <details>
+   <summary>Create new neural predicate</summary>
+    
+ </details>	   
+</details>	
