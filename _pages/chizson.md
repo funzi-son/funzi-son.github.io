@@ -43,10 +43,10 @@ Tutorial
 </details>
 
 <details>
- <summary>Compositional Neural Predicate</summary>
+ <summary>General Neural Predicate</summary>
     
     <ul>
-     <il> Compositional Neural Predicate </il>
-     <il> DBN Predicate</il>
+     <li> Compositional Neural Predicate </li>
+     <li> DBN Predicate</li>
     </ul>
 </details>	
