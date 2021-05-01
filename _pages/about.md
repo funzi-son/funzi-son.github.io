@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer (Assistant Professor) at the University of Tasmania, Australia. Before that, I was a post-doctoral research fellow at the Commonwealth Scientific and Industrial Research Organisation, Australia. I hold a Ph.D. in Computer Science (2016) from City, University of London, an EU Erasmus Mundus joint MSc in Networks and e-Business Computing, University of Reading, and a BSc in Electronic Engineering from Hanoi University of Science and Technology. I am interested in neural computing, including neural-symbolic computing, deep neural networks, and their applications in signal processsing. 
+I am a Lecturer (Assistant Professor) at the University of Tasmania, Australia. Before that, I was a post-doctoral research fellow at the Commonwealth Scientific and Industrial Research Organisation, Australia. I hold a Ph.D. in Computer Science (2016) from City, University of London, an EU Erasmus Mundus joint MSc in Networks and e-Business Computing, University of Reading, and a BSc in Electronic Engineering from Hanoi University of Science and Technology. I am interested in neural computing, including neural-symbolic computing, deep neural networks, and their applications in visual intelligence and IoT. 
 
 News
 ======
