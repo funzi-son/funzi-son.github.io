@@ -12,7 +12,11 @@ I am a Lecturer (Assistant Professor) at the University of Tasmania, Australia. 
 
 News
 ======
+04-Nov-2022: Welcome to Machine Learning Tasmania community ([link](http://tasml.com)). Our open community aims to connect researchers, Machine Learning enthusiasts, and businesses in Tasmania.
+
 10-Aug-2021: Our Aus4Innovation grant application has been successful (	[media](https://www.utas.edu.au/communications/general-news/all-news/tasmanian-researchers-expertise-help-assist-remote-communities-in-vietnam) )
+
+27-Jul-2021: My AI for Decision Making Innitiative grant has been successful. The grant is funded by Defence Science Institute.
 
 30-Apr-2021: My paper "Compositional Neural Logic Programming" has been accepted for presentation at IJCAI-21 (Rank A*, sole author).
 
