@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Selected papers
 
-For the list of publications please check my [Google Scholar](https://scholar.google.com.au/citations?user=h82eCK8AAAAJ&hl=en&oi=ao)
+For the full list of publications please check my [Google Scholar](https://scholar.google.com.au/citations?user=h82eCK8AAAAJ&hl=en&oi=ao)
 
 ### 2021
 
