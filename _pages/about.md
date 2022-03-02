@@ -16,7 +16,7 @@ News
 
 04-Nov-2021: Welcome to Machine Learning Tasmania community ([link](http://tasml.com)). Our open community aims to connect researchers, Machine Learning enthusiasts, and businesses in Tasmania.
 
-10-Aug-2021: Our Aus4Innovation grant application has been successful (	[media](https://www.utas.edu.au/communications/general-news/all-news/tasmanian-researchers-expertise-help-assist-remote-communities-in-vietnam) )
+10-Aug-2021: Our Aus4Innovation grant application has been successful (	[media-1](https://vod-progressive.akamaized.net/exp=1646225246~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F159%2F24%2F600797828%2F2820705849.mp4~hmac=58d4ef1696043be67cfb668e44d77fe8f8a40f9169869e74bff169658223b00b/vimeo-prod-skyfire-std-us/01/159/24/600797828/2820705849.mp4), [media-1](https://www.utas.edu.au/communications/general-news/all-news/tasmanian-researchers-expertise-help-assist-remote-communities-in-vietnam), [media-2](https://blog.csiro.au/aus4innovation-2021/))
 
 27-Jul-2021: My AI for Decision Making Innitiative grant has been successful. The grant is funded by Defence Science Institute.
 
