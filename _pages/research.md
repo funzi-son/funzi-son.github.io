@@ -6,9 +6,8 @@ author_profile: true
 ---
 
 
-<img src="../images/figs/cnlp.png" alt="cnlp" width="300"/>  |   Son N. Tran, Compositional Neural Logic Programming. Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence, 3059–3066. <br> [pdf](https://www.ijcai.org/proceedings/2021/0421.pdf)
-
-<img src="../images/figs/dln.png" alt="cnlp" width="300"/>  |   Son N. Tran and Artur d'Avila Garcez, Deep Logic Network: Inserting and Extracting Knowledge From Deep Belief Networks. IEEE Transaction of Neural Networks and Learning Systems. <br> [pdf](https://ieeexplore.ieee.org/document/7738566)
+|<img src="../images/figs/cnlp.png" alt="cnlp" width="300"/>  |   Son N. Tran, Compositional Neural Logic Programming. Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence, 3059–3066. <br> [pdf](https://www.ijcai.org/proceedings/2021/0421.pdf)|
+|<img src="../images/figs/dln.png" alt="cnlp" width="300"/>  |   Son N. Tran and Artur d'Avila Garcez, Deep Logic Network: Inserting and Extracting Knowledge From Deep Belief Networks. IEEE Transaction of Neural Networks and Learning Systems. <br> [pdf](https://ieeexplore.ieee.org/document/7738566)|
 
 
 {% if author.googlescholar %}
