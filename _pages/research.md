@@ -5,6 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](./figs/cnlp.png)  |  helloooo
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}

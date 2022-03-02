@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+CHIZSON is a Python-based Neuro-symbolic framework for knowledge and
+neural networks integration. The framework aims to support AI users
+and developers to easily represent and incorporate symbolic knowledge
+and logic programs to connectionist machine learning models. I work on
+this framework during my free time so the maintainance will be
+slow. If there are any questions, please drop me and email at:
+sontf.fz@gmail.com.
+
 User Guide
 ======
 

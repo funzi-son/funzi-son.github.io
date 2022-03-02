@@ -12,7 +12,9 @@ I am a Lecturer (Assistant Professor) at the University of Tasmania, Australia. 
 
 News
 ======
-04-Nov-2022: Welcome to Machine Learning Tasmania community ([link](http://tasml.com)). Our open community aims to connect researchers, Machine Learning enthusiasts, and businesses in Tasmania.
+03-Feb-2022: Our paper "A Self-Learning Approach for Baggiatoa Coverage Estimation in Aquaculture" has been selected for the "Best Application Paper Award" at the 34th Australasian Joint Conference on Artificial Intelligence.
+
+04-Nov-2021: Welcome to Machine Learning Tasmania community ([link](http://tasml.com)). Our open community aims to connect researchers, Machine Learning enthusiasts, and businesses in Tasmania.
 
 10-Aug-2021: Our Aus4Innovation grant application has been successful (	[media](https://www.utas.edu.au/communications/general-news/all-news/tasmanian-researchers-expertise-help-assist-remote-communities-in-vietnam) )
 
