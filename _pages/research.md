@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 :-------------------------:|:-------------------------:
-<img src="images/figs/cnlp.png" alt="cnlp" width="50"/>  |  ![test](./figs/cnlp.png)
+<img src="~/images/figs/cnlp.png" alt="cnlp" width="50"/>  |  CNLP
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
