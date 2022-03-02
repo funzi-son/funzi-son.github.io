@@ -13,8 +13,7 @@ For the full list of publications please check my [Google Scholar](https://schol
 |<img src="../images/figs/cnlp.png" alt="cnlp" width="300"/>  |   **Son N. Tran**, Compositional Neural Logic Programming. Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence, 3059–3066. <br> [pdf](https://www.ijcai.org/proceedings/2021/0421.pdf)|
 |<img src="../images/figs/lbm.png" alt="cnlp" width="300"/>  |   **Son N. Tran** and Artur d'Avila Garcez, Logical Boltzmann Machines. arXiv:2112.05841. <br> [pdf](https://arxiv.org/pdf/2112.05841.pdf)|
 |<img src="../images/figs/pmsdsnet.png" alt="cnlp" width="300"/>  |   Renjie Li, **Son N. Tran**, Saurabh Garg, Katherine Lawler, Jane Alty, Quan Bai. arXiv:2112.10275. <br> [pdf](https://arxiv.org/pdf/2112.10275.pdf)|
-|<img src="../images/figs/pmsdsnet.png" alt="cnlp" width="300"/>  | Dung Nguyen, Duc Thanh Nguyen, Rui Zeng, Thanh Thi Nguyen, **Son N. Tran**, Thin Khac Nguyen, Sridha Sridharan, Clinton Fookes, Deep Auto-Encoders with Sequential Learning for
-Multimodal Dimensional Emotion Recognition. IEEE Transactions on Multimedia. <br> [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9374787)|
+|<img src="../images/figs/daelstm.png" alt="cnlp" width="300"/>  | Dung Nguyen, Duc Thanh Nguyen, Rui Zeng, Thanh Thi Nguyen, **Son N. Tran**, Thin Khac Nguyen, Sridha Sridharan, Clinton Fookes, Deep Auto-Encoders with Sequential Learning for Multimodal Dimensional Emotion Recognition. IEEE Transactions on Multimedia. <br> [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9374787)|
 
 
 ### 2020
