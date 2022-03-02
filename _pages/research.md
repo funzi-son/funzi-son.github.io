@@ -22,10 +22,11 @@ For the full list of publications please check my [Google Scholar](https://schol
 |<img src="../images/figs/nsam.png" alt="cnlp" width="300"/>  | **Son N. Tran** , Artur d’Avila Garcez , Tillman Weyde, Jie Yin , Qing Zhang, and Mohan Karunanithi. Neural-Symbolic Probabilistic Argumentation Machines. IEEE Transactions on Neural Networks and Learning Systems. <br> [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8954925)|
 |<img src="../images/figs/nsam.png" alt="cnlp" width="300"/>  | **Son N. Tran**, Dung Nguyen, Tung-Son Ngo, Xuan-Son Vu, Long Hoang, Qing Zhang and Mohan Karunanithi. On multi-resident activity recognition in ambient smart-homes. Artificial Intelligence Review. <br> [pdf](https://link.springer.com/content/pdf/10.1007/s10462-019-09783-8.pdf)|
 
-
 ### 2019
+|<img src="../images/figs/nesy_survey.png" alt="cnlp" width="300"/>  | Artur d'Avila Garcez\*, Marco Gori, Luis C Lamb, Luciano Serafini, Michael Spranger, **Son N Tran**. Neural-symbolic computing: An effective methodology for principled integration of machine learning and reasoning. IfCoLog Journal of Applied Logics. <br> \∗ Corresponding author. Authors are in alphabetical order. . <br> [pdf](https://link.springer.com/content/pdf/10.1007/s10462-019-09783-8.pdf)|
+|<img src="../images/figs/nsam.png" alt="cnlp" width="300"/>  | . On multi-resident activity recognition in ambient smart-homes. Artificial Intelligence Review. <br> [pdf](https://arxiv.org/pdf/1905.06088.pdf?ref=https://githubhelp.com)|
 
-### 2018
+### Before 2019
 
 |<img src="../images/figs/dln.png" alt="cnlp" width="300"/>  |   **Son N. Tran** and Artur d'Avila Garcez, Deep Logic Network: Inserting and Extracting Knowledge From Deep Belief Networks. IEEE Transaction of Neural Networks and Learning Systems. <br> [pdf](https://ieeexplore.ieee.org/document/7738566)|
 
