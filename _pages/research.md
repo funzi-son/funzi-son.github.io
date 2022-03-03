@@ -24,7 +24,7 @@ For the full list of publications please check my [Google Scholar](https://schol
 
 ### 2019
 
-|<img src="../images/figs/nesy_survey.png" alt="cnlp" width="300"/>  | Artur d'Avila Garcez\*, Marco Gori, Luis C Lamb, Luciano Serafini, Michael Spranger, **Son N Tran**. Neural-symbolic computing: An effective methodology for principled integration of machine learning and reasoning. IfCoLog Journal of Applied Logics. <br>\∗ Corresponding author. Authors are in alphabetical order. . <br> [pdf](https://link.springer.com/content/pdf/10.1007/s10462-019-09783-8.pdf)|
+|<img src="../images/figs/nesy_survey.png" alt="cnlp" width="300"/>  | Artur d'Avila Garcez\*, Marco Gori, Luis C Lamb, Luciano Serafini, Michael Spranger, **Son N Tran**. Neural-symbolic computing: An effective methodology for principled integration of machine learning and reasoning. IfCoLog Journal of Applied Logics. <br>\* Corresponding author. Authors are in alphabetical order. . <br> [pdf](https://link.springer.com/content/pdf/10.1007/s10462-019-09783-8.pdf)|
 
 ### Before 2019
 
