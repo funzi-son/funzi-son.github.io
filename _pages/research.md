@@ -19,8 +19,8 @@ For the full list of publications please check my [Google Scholar](https://schol
 ### 2020
 
 |<img src="../images/figs/nsam.png" alt="cnlp" width="300"/>  |   Regis Riveret\*, **Son N. Tran**\*, Artur d'Avila Garcez. Neural-Symbolic Probabilistic Argumentation Machines. <br>\* Joint first authors (equal contribution). <br> [pdf](https://proceedings.kr.org/2020/90/kr2020-0090-riveret-et-al.pdf)|
-|<img src="../images/figs/nsam.png" alt="cnlp" width="300"/>  | **Son N. Tran** , Artur d’Avila Garcez , Tillman Weyde, Jie Yin , Qing Zhang, and Mohan Karunanithi. Neural-Symbolic Probabilistic Argumentation Machines. IEEE Transactions on Neural Networks and Learning Systems. <br> [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8954925)|
-|<img src="../images/figs/nsam.png" alt="cnlp" width="300"/>  | **Son N. Tran**, Dung Nguyen, Tung-Son Ngo, Xuan-Son Vu, Long Hoang, Qing Zhang and Mohan Karunanithi. On multi-resident activity recognition in ambient smart-homes. Artificial Intelligence Review. <br> [pdf](https://link.springer.com/content/pdf/10.1007/s10462-019-09783-8.pdf)|
+|<img src="../images/figs/nsam.png" alt="cnlp" width="300"/>  | **Son N. Tran** , Artur d’Avila Garcez , Tillman Weyde, Jie Yin , Qing Zhang, and Mohan Karunanithi. Sequence Classification Restricted Boltzmann Machines with Gated Units. IEEE Transactions on Neural Networks and Learning Systems. <br> [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8954925)|
+|<img src="../images/figs/mrar.png" alt="cnlp" width="300"/>  | **Son N. Tran**, Dung Nguyen, Tung-Son Ngo, Xuan-Son Vu, Long Hoang, Qing Zhang and Mohan Karunanithi. On multi-resident activity recognition in ambient smart-homes. Artificial Intelligence Review. <br> [pdf](https://link.springer.com/content/pdf/10.1007/s10462-019-09783-8.pdf)|
 
 ### 2019
 
