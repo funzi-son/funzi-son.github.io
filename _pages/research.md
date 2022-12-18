@@ -5,9 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 ## Research Interests
-### Deep Learning
-### Neuro-symbolic/Neurosymbolic/Neural-symbolic
-### Lifelong Learning
+- Deep Learning
+- Compact Neural Networks
+- Neuro-symbolic/Neurosymbolic/Neural-symbolic
+- Transfer/Lifelong Learning
 
 ## Recent (selected) papers
 
