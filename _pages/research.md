@@ -4,6 +4,11 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+## Research Interests
+### Deep Learning
+### Neuro-symbolic/Neurosymbolic/Neural-symbolic
+### Lifelong Learning
+
 ## Recent (selected) papers
 
 For the full list of publications please check my [Google Scholar](https://scholar.google.com.au/citations?user=h82eCK8AAAAJ&hl=en&oi=ao)
