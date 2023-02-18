@@ -9,27 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+Memberships
+======
+Memberships: IEEE (former), IEEE CIS (former), NeSy Association, CiE, ACS, AAAI.
 
 Invited Talks
 ======
 
-- Transparency/Intepretability: 
-- Problem solving: Solve harder and more complex problems.
-- Robustness: Ability to deal with changing situation and adversarial attacks.
-
-These are among the research topics that NeSy researchers (including me) are investigating.
+* (2023) Neurosymbolic Artificial Intelligence: Theory, Applications, and Challenges Link: https: //www.vinai.io/seminar-posts/neurosymbolic-artificial-intelligence-theory-applications- and-challenges/. VinAI Research.
+* (2023) “Ede AI: Bring AI to the real world”. FU-SAP Lab.
+* (2022) “Towards Reliable and Robust Deep Learning with Neurosymbolic Computing”. Link:
+https://sites.google.com/view/reliablemldl2022/home. ICONIP (Reliable, Robust, and
+Secure ML special session).
+* (2018) Research Centre for Machine Learning at City, University of London.
+* (2014) Dagstuhl Seminar on Neural-Symbolic Learning and Reasoning.
  
-PC Member/Reviewer
+PC Member/Reviewer/Chair
 ======
-* The Animal-AI Testbed http://animalaiolympics.com/AAI/
-* CLEVRER[http://clevrer.csail.mit.edu/]
-* additionKB
-* compareKB
-* partofKB
-* Cora [https://relational.fit.cvut.cz/dataset/CORA]
-* Visual genome[https://visualgenome.org/]
-* Nations, Kinship, UMLS
-* Promoter[https://archive.ics.uci.edu/ml/datasets/Molecular+Biology+(Promoter+Gene+Sequences)]
+* Session chair: AAAI 2023, ICONIP 2018.
+* Program committee: AAAI (2014, 2023), IJCAI (2021,2022,2023), ACL(2019), AAMAS (2020,
+2022), NeurIPs-KR2ML(2019, 2020), NeSy (2017, 2019), INLG (2019), PKADD DM-BPM
+(2017).
+* Reviewer/sub-reviewer: IEEE TNNLS (2016-present), Neural Networks (2018-present), IEEE
+TETC(2018-present), IEEE CYB (2019-present).
+
 
 Teaching
 ======
