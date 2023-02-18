@@ -36,13 +36,30 @@ TETC(2018-present), IEEE CYB (2019-present).
 
 Teaching
 ======
-* A
-* B
+* KIT315: Machine Learning and Applications
+* KIT509: Introduction to Artificial Intelligence
+* KIT108: Artificial Intelligence
+* KIT102: Introduction to Data Science
+* KIT100: Programming Preparation
 
 Students
 ======
-* A
-* B
+#### Current
+Jamal Maktoubian (PhD candidate)
+Hieu Nguyen (PhD candidate)
+Xinyi Wang (PhD candidate, was Masters)
+Jianping Yao (MRes)
+Gemju Sherpa (Masters)
+#### Past
+Guan Huang (Masters, 2022)
+Jiejun Huo (Masters, 2022)
+Bijaya Bhattarrai (Honours, 2022)
+Rami Mohawesh (PhD, 2022)
+Yuchen Wei (PhD, 2022)
+Yunjue Zhou (Masters, 2021)
+Xinping Liu (Honours, 2020)
+Wenke Zhao  (Masters, 2020)
+
 
 Prizes/Awards
 ======
