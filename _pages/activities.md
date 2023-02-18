@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Neuro-Symbolic/Neural-Symbolic"
+title: ""
 permalink: /activities/
 author_profile: true
 redirect_from:
@@ -41,4 +41,5 @@ Students
 * A
 * B
 
-
+Prizes/Awards
+======
