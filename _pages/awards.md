@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Neuro-Symbolic/Neural-Symbolic"
-permalink: /nesy/
+title: ""
+permalink: /awards/
 author_profile: true
 redirect_from:
-  - /neuro-symb
+  - /awards
 ---
 
 {% include base_path %}

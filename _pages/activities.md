@@ -73,5 +73,3 @@ Xinping Liu (Honours, 2020)
 
 Wenke Zhao  (Masters, 2020)
 
-Prizes/Awards
-======
