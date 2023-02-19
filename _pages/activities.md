@@ -15,9 +15,9 @@ Memberships: IEEE (former), IEEE CIS (former), NeSy Association, CiE, ACS, AAAI.
 
 Invited Talks
 ======
-* (2023) "Neurosymbolic Artificial Intelligence: Theory, Applications, and Challenges", Link[https: //www.vinai.io/seminar-posts/neurosymbolic-artificial-intelligence-theory-applications- and-challenges/], VinAI Research.
+* (2023) "Neurosymbolic Artificial Intelligence: Theory, Applications, and Challenges", [Link](https: //www.vinai.io/seminar-posts/neurosymbolic-artificial-intelligence-theory-applications- and-challenges/), VinAI Research.
 * (2023) “Ede AI: Bring AI to the real world”, FU-SAP Lab.
-* (2022) “Towards Reliable and Robust Deep Learning with Neurosymbolic Computing”, Link[https://sites.google.com/view/reliablemldl2022/home], ICONIP (Reliable, Robust, and
+* (2022) “Towards Reliable and Robust Deep Learning with Neurosymbolic Computing”, [Link](https://sites.google.com/view/reliablemldl2022/home), ICONIP (Reliable, Robust, and
 Secure ML special session).
 * (2021) "Artificial Neural Networks, and their applications to research", AAPP/IMAS machine learning workshop.
 * (2018) Research Centre for Machine Learning at City, University of London.
