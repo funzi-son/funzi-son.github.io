@@ -12,6 +12,8 @@ I am a Lecturer (Assistant Professor) at the University of Tasmania, Australia. 
 
 News
 ======
+24-May-2023: I gave a talk about "Robust Artificial Intelligence" to the Security Research Group at the University of Melbourne.
+
 20-Nov-2022: Our paper "Neurosymbolic Reasoning and Learning with Restricted Boltzmann Machines" has been accepted for publication at AAAI23 (A*, first author, acceptance rate 19.6%)
 
 03-Feb-2022: Our paper "A Self-Learning Approach for Baggiatoa Coverage Estimation in Aquaculture" has been selected for the "Best Application Paper Award" at the 34th Australasian Joint Conference on Artificial Intelligence.
