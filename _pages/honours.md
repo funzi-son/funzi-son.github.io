@@ -16,7 +16,7 @@ Grants
 | Year    | Role    | Funding Scheme | Funding Oganisation | Amount     |
 |:--------|:-------:|---------------:|--------------------:|-----------:|
 |2021     | CI      |Aus4Innovation  | CSIRO               | 387,245 AUD|
-|2021     | CI      |Industry        | FRDC                | 135,000 AUD|
+|2021     | CI      |Industry        | FRDC                | 311,121 AUD|
 |2021     | CI      |Artificial Intelligence for Decision Making Initiative| DSI | 20,000 AUD|
 |2021     | CI      |Incentive Grant + Industry match-up   | UTAS+FRDC  | 25,500 AUD|
 |2021     | CI      |Individual \& Collective Grant        | UTAS       | 1,500 AUD |
