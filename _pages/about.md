@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer (Assistant Professor) at the University of Tasmania, Australia. Before that, I was a post-doctoral research fellow at the Commonwealth Scientific and Industrial Research Organisation, Australia. I hold a Ph.D. in Computer Science (2016) from City, University of London, an EU Erasmus Mundus joint MSc in Networks and e-Business Computing, University of Reading, and a BSc in Electronic Engineering from Hanoi University of Science and Technology. I am interested in neural computing, including neural-symbolic computing for robust, transparent AI, and Human-AI teaming. I am also interested in applications of (deep) neural networks. 
+I am a Senior Lecturer at Deakin University, Australia. I hold a Ph.D. in Computer Science (2016) from City, University of London. I am interested in neural computing and its advantages in making sense from data. My current focus is on neural-symbolic computing for robust, transparent AI, and Human-AI teaming. I am also interested in applications of (deep) neural networks in Health Care, Agriculture, and Autonomous Systems.
 
 News
 ======
+10-July-2023: I am now a Senior Lecturer at Deakin University. I will be located at Burwood campus, Melbourne but I am working remotely from Tasmania until November this year. 
+
 24-May-2023: I gave a talk about "Robust Artificial Intelligence" to the Security Research Group at the University of Melbourne.
 
 20-Nov-2022: Our paper "Neurosymbolic Reasoning and Learning with Restricted Boltzmann Machines" has been accepted for publication at AAAI23 (A*, first author, acceptance rate 19.6%)
