@@ -14,7 +14,7 @@ News
 ======
 10-July-2023: I am now a Senior Lecturer at Deakin University. I will be located at Burwood campus, Melbourne but I am working remotely from Tasmania until November this year.
 
-9-July-2023: I have left the University of Tasmania as a full-time academic staff. I will be holding an position of Adjunct Senior Researcher at the School of Information and Communication Technology, the University of Tasmania.
+9-July-2023: I have left the University of Tasmania as a full-time academic staff. I will be holding a position of Adjunct Senior Researcher at the School of Information and Communication Technology, the University of Tasmania.
 
 24-May-2023: I gave a talk about "Robust Artificial Intelligence" to the Security Research Group at the University of Melbourne.
 
