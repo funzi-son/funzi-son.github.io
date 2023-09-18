@@ -15,6 +15,7 @@ Memberships: IEEE (former), IEEE CIS (former), NeSy Association, CiE, ACS, AAAI.
 
 Invited Talks
 ======
+* (2023) "Robust Artificial Intelligence”, Security Research Group at the University of Melbourne.
 * (2023) "Neurosymbolic Artificial Intelligence: Theory, Applications, and Challenges", [Link](https: //www.vinai.io/seminar-posts/neurosymbolic-artificial-intelligence-theory-applications- and-challenges/), VinAI Research.
 * (2023) “Ede AI: Bring AI to the real world”, FU-SAP Lab.
 * (2022) “Towards Reliable and Robust Deep Learning with Neurosymbolic Computing”, [Link](https://sites.google.com/view/reliablemldl2022/home), ICONIP (Reliable, Robust, and
@@ -26,7 +27,7 @@ Secure ML special session).
 PC Member/Reviewer/Chair
 ======
 * Session chair: AAAI 2023, ICONIP 2018.
-* Program committee: AAAI (2014, 2023), IJCAI (2021,2022,2023), ACL(2019), AAMAS (2020,
+* Program committee: AAAI (2014, 2023, 2024), IJCAI (2021,2022,2023), KR (2023) ACL(2019), AAMAS (2020,
 2022), NeurIPs-KR2ML(2019, 2020), NeSy (2017, 2019), INLG (2019), PKADD DM-BPM
 (2017).
 * Reviewer/sub-reviewer: IEEE TNNLS (2016-present), Neural Networks (2018-present), IEEE
@@ -48,7 +49,7 @@ Jamal Maktoubian (PhD candidate)
 
 Hieu Nguyen (PhD candidate)
 
-Xinyi Wang (PhD candidate, was Masters)
+Xinyi Wang (PhD candidate, formerlly a Masters student)
 
 Jianping Yao (MRes)
 

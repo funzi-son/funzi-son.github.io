@@ -5,10 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 ## Research Interests
-- Deep Learning
-- Compact Neural Networks
+- Explainable/Interpretable AI
+- Knowledge Representation and Reasoninging with (Deep) Neural Networks.
 - Neuro-symbolic/Neurosymbolic/Neural-symbolic
-- Transfer/Lifelong Learning
+- Multi-label \& Multi-task learning
 
 ## Recent (selected) papers
 
