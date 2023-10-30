@@ -24,13 +24,13 @@ Secure ML special session).
 * (2018) Research Centre for Machine Learning at City, University of London.
 * (2014) Dagstuhl Seminar on Neural-Symbolic Learning and Reasoning.
  
-PC Member/Reviewer/Chair
+Chair/PC Member/Reviewer
 ======
 * Session chair: AAAI 2023, ICONIP 2018.
 * Program committee: AAAI (2014, 2023, 2024), IJCAI (2021,2022,2023), KR (2023) ACL(2019), AAMAS (2020,
 2022), NeurIPs-KR2ML(2019, 2020), NeSy (2017, 2019), INLG (2019), PKADD DM-BPM
 (2017).
-* Reviewer/sub-reviewer: IEEE TNNLS (2016-present), Neural Networks (2018-present), IEEE
+* Reviewer/sub-reviewer: AIJ (2022-present), IJAR (2023-present),IEEE TNNLS (2016-present), Neural Networks (2018-present), IEEE
 TETC(2018-present), IEEE CYB (2019-present).
 
 
