@@ -12,6 +12,13 @@ I am a Senior Lecturer at Deakin University, Australia. I hold a Ph.D. in Comput
 
 News
 ======
+
+28-Mar-2024: Our joint project "Computer Vision for Sport Analytics" between Deakin University and IIT-Madras was selected for funding. We are now recruiting a PhD student. Please contact if you are interested.
+
+25-Mar-2024: Our bidding to host KR 2025 in Melbourne is succesful. 
+
+15-Jan-2024: Our paper "Deep Learning for Plant Identification and Disease Classification from Leaf Images: Multi-prediction Approaches" has been published in ACM Computing Surveys (joint first author) [link](https://dl.acm.org/doi/abs/10.1145/3639816) [preprint](https://arxiv.org/pdf/2310.16273) [code](https://github.com/funzi-son/plant_pathology_dl)
+
 10-July-2023: I am now a Senior Lecturer at Deakin University. I will be located at Burwood campus, Melbourne but I am working remotely from Tasmania until November this year.
 
 9-July-2023: I have left the University of Tasmania as a full-time academic staff. I will be holding a position of Adjunct Senior Researcher at the School of Information and Communication Technology, the University of Tasmania.
