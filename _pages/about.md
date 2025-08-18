@@ -8,10 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Lecturer at Deakin University, Australia. I hold a Ph.D. in Computer Science (2016) from City, University of London. I am interested in neural computing and its advantages in making sense from data. My current focus is on neural-symbolic computing for robust, transparent AI, and Human-AI teaming. I am also interested in applications of (deep) neural networks in Health Care, Agriculture, and Autonomous Systems.
+Dr. Son Tran serves as a Senior Lecturer in Data Science at the School of Information Technology, Deakin University, Australia. He earned his Ph.D. in Computer Science from City, University of London, United Kingdom. Dr. Tran's research interests are dedicated to building reliable, scalable, and robust artificial intelligence systems aimed at advancing the well-being of humanity. His research has been applied to diverse domains, including agriculture, healthcare, and autonomous systems. Dr. Tran's contributions are featured in flagship AI conferences and journals such as AAAI, IJCAI, KR, ECIR, SIGIR, IEEE TNNLS, ACM CSUR, and ACM TMM.
 
 News
 ======
+
+14-Aug-2025: Our paper "Neurosymbolic Reasoning and Learning with Restricted Boltzmann Machines" has been accepted to publish in the Recently Published Track at KR2025 (A*)
+
+20-Jul-2025: Our joint project "Distributed Quantum Optimisation for Machine Learning" between Deakin University and IIT-Madras was selected for funding. We are now recruiting a PhD student. Please contact if you are interested.
+
+25-Mar-2025: Our paper "Parallel Multi-Scale Deep Supervision Net for Hand key point Detection" has been published in Transactions on Big Data.
+07-Mar-2025: Our project "Knowledge-Informed Machine Learning for Complex Systems" has been accepted for funding. We are recruiting a research assistant and a domestic PhD, please contact if you are interested and would like to have detailed information.
 
 28-Mar-2024: Our joint project "Computer Vision for Sport Analytics" between Deakin University and IIT-Madras was selected for funding. We are now recruiting a PhD student. Please contact if you are interested.
 
