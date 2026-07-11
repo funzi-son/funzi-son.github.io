@@ -253,7 +253,18 @@ author_profile: true
 
 <div class="member-card">
     <div class="member-photo">👤</div>
-    <div class="member-name">Bahman Jafari Tabaghsar</div>
+    <div class="member-name">Xinyi Wang</div>
+    <div class="member-role">PhD Student, Early Dementia Detection</div>
+    <div class="member-links">
+      <a href="mailto:email@example.com" title="Email">✉️</a>
+      <a href="#" title="Google Scholar">🎓</a>
+      <a href="#" title="GitHub">💻</a>
+    </div>
+  </div>
+
+<div class="member-card">
+    <div class="member-photo">👤</div>
+    <div class="member-name">Hieu Nguyen</div>
     <div class="member-role">PhD Student, Explainable AI</div>
     <div class="member-links">
       <a href="mailto:email@example.com" title="Email">✉️</a>
@@ -267,8 +278,19 @@ author_profile: true
 ## Alumni
 
 <div class="alumni-list" markdown="0">
-  <span class="alumni-pill">Taige Zhao <span class="now">— </span></span>
   <span class="alumni-pill">Jamal Maktoubian <span class="now">— now at Menzies Institute for Medical Research</span></span>
+  <span class="alumni-pill">Rami Mohawesh<span class="now">— now at xxx</span></span>
+  <span class="alumni-pill">Yuchen Wei <span class="now">— now at xxx</span></span>
+  <span class="alumni-pill">Taige Zhao</span>
+  <span class="alumni-pill"> Jianping Yao</span> 
+  <span class="alumni-pill">Guan Huang </span>
+  <span class="alumni-pill">Jiejun Huo </span>
+  <span class="alumni-pill">Bijaya Bhattarrai  </span>
+  <span class="alumni-pill">Yunjue Zhou </span>
+  <span class="alumni-pill"> Xinping Liu</span>
+  <span class="alumni-pill">  Wenke Zhao</span>
+
+  
   <span class="alumni-pill">[Name] <span class="now">— now at [Company/Institution]</span></span>
 </div>
 
