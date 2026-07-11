@@ -137,8 +137,8 @@ redirect_from:
 </style>
 
 <div class="about-hero" markdown="0">
-  <h2>Hi, I'm Son Tran 👋</h2>
-  <p>I am a computer scientist with a Ph.D. in Computer Science from City, University of London, United Kingdom. My research is dedicated to building reliable, scalable, and robust artificial intelligence systems that advance human well-being. I apply this work across diverse domains, including agriculture, healthcare, and autonomous systems.</p>
+  <h2>Hi, I'm [Your Name] 👋</h2>
+  <p>I am a <strong>[your role, e.g. PhD Student]</strong> in <strong>[Department/Program]</strong> at <strong>[University/Institution]</strong>, advised by <strong>[Advisor Name]</strong>. My research focuses on <strong>[1-sentence description of your research area]</strong>.</p>
   <div class="badge-row">
     <span class="badge">📍 [City, Country]</span>
     <span class="badge">🎓 [Field of Study]</span>
@@ -221,7 +221,7 @@ Before joining [Institution], I completed my [degree] in [field] at [Previous In
 
 ## Get in Touch
 
-I'm always happy to chat about research, collaborations, or opportunities. Reach out below: test
+I'm always happy to chat about research, collaborations, or opportunities. Reach out below:
 
 <div class="contact-row" markdown="0">
   <a class="contact-pill" href="mailto:your.email@example.com">✉️ Email</a>
