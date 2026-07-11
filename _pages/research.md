@@ -130,7 +130,7 @@ author_profile: true
 
   <div class="theme-card">
     <span class="icon">🧠</span>
-    <h3>Theme 1: [e.g. Learning Under Uncertainty]</h3>
+    <h3>Theme 1: NeuroSymbolic/Neural-Symbolic</h3>
     <p>Short description of the problem, why it matters, and your approach.</p>
     <ul>
       <li><a href="#">Author et al., Venue Year</a></li>
@@ -139,8 +139,8 @@ author_profile: true
   </div>
 
   <div class="theme-card">
-    <span class="icon">📐</span>
-    <h3>Theme 2: [e.g. Theoretical Foundations]</h3>
+    <span class="icon">🛡️</span>
+    <h3>Theme 2: Safe & Reliable AI</h3>
     <p>Short description of the problem and your contribution.</p>
     <ul>
       <li><a href="#">Author et al., Venue Year</a></li>
@@ -148,8 +148,17 @@ author_profile: true
   </div>
 
   <div class="theme-card">
-    <span class="icon">🔬</span>
-    <h3>Theme 3: [e.g. Real-World Applications]</h3>
+    <span class="icon">⚛️</span>
+    <h3>Theme 3: Quantum AI</h3>
+    <p>Short description of the applied angle and impact.</p>
+    <ul>
+      <li><a href="#">Author et al., Venue Year</a></li>
+    </ul>
+  </div>
+
+  <div class="theme-card">
+    <span class="icon">🚀</span>
+    <h3>Theme 4: AI Applications</h3>
     <p>Short description of the applied angle and impact.</p>
     <ul>
       <li><a href="#">Author et al., Venue Year</a></li>

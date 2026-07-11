@@ -156,7 +156,7 @@ redirect_from:
 
 ## Research Opportunities
 
-I am always interested in working with motivated students. If you are interested in doing research with me, please send your CV.
+I am always interested in working with motivated students. If you are interested in doing research with me, please send your CV through.
 
 **For PhD applicants:** please ensure you meet the following before reaching out:
 - At least one first-author paper published in an A/A*/Q1-ranked venue
