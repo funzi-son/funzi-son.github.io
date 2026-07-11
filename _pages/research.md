@@ -204,10 +204,10 @@ author_profile: true
 ## Collaborators
 
 <div class="collab-grid" markdown="0">
-  <div class="collab-card"><strong>[Name]</strong><br><span class="inst">[Institution]</span></div>
-  <div class="collab-card"><strong>[Name]</strong><br><span class="inst">[Institution]</span></div>
-  <div class="collab-card"><strong>[Name]</strong><br><span class="inst">[Institution]</span></div>
-  <div class="collab-card"><strong>[Name]</strong><br><span class="inst">[Institution]</span></div>
+  <div class="collab-card"><strong>Dream AI</strong><br><span class="inst">Global</span></div>
+  <div class="collab-card"><strong><a href="https://researchcentres.citystgeorges.ac.uk/acsml" target="_blank" rel="noopener noreferrer"> Research Centre for Machine Learning </a>  </strong><br><span class="inst">City st George's, University of London</span></div>
+  <div class="collab-card"><strong>Machine Intelligence Lab</strong><br><span class="inst">Deakin University</span></div>
+  <div class="collab-card"><strong>Data Mining and Knowledge Discoverty</strong><br><span class="inst">Deakin University</span></div>
 </div>
 
 <hr class="section-divider">
