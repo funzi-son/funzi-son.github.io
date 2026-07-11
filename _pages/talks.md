@@ -230,6 +230,90 @@ author_profile: true
   </div>
 </div>
 
+<div class="year-heading">2024</div>
+
+<div class="talk-entry" markdown="0">
+  <div class="talk-when">
+    <div class="talk-month">[Mon]</div>
+    <div class="talk-day">[DD]</div>
+    <div class="talk-loc">📍 [City, Country] (Virtual)</div>
+  </div>
+  <div class="talk-body">
+    <span class="talk-type-badge type-seminar">Seminar</span>
+    <div class="talk-title">[Talk Title]</div>
+    <div class="talk-venue"><strong>[Department Seminar Series]</strong>, [University Name]</div>
+    <div class="talk-abstract">One or two sentences summarizing what the talk covered.</div>
+    <div class="talk-footer">
+      <div class="talk-links">
+        <a href="#">🎥 Video</a>
+      </div>
+      <span class="talk-format">Virtual</span>
+    </div>
+  </div>
+</div>
+
+<div class="talk-entry" markdown="0">
+  <div class="talk-when">
+    <div class="talk-month">[Mon]</div>
+    <div class="talk-day">[DD]</div>
+    <div class="talk-loc">📍 [City, Country]</div>
+  </div>
+  <div class="talk-body">
+    <span class="talk-type-badge type-panel">Panel</span>
+    <div class="talk-title">[Panel Title / Topic]</div>
+    <div class="talk-venue"><strong>[Conference Name]</strong> — panel discussion</div>
+    <div class="talk-abstract">Brief note on the panel's theme and your role/contribution in the discussion.</div>
+    <div class="talk-footer">
+      <div class="talk-links">
+        <a href="#">🎥 Video</a>
+      </div>
+      <span class="talk-format">In-person</span>
+    </div>
+  </div>
+</div>
+
+<div class="year-heading">2023</div>
+
+<div class="talk-entry" markdown="0">
+  <div class="talk-when">
+    <div class="talk-month">[Mon]</div>
+    <!-- <div class="talk-day">[DD]</div> -->
+    <div class="talk-loc">📍 Melbourne, Australia (Virtual)</div>
+  </div>
+  <div class="talk-body">
+    <span class="talk-type-badge type-invited">Invited Talk</span>
+    <div class="talk-title">Robust Artificial Intelligence</div>
+    <div class="talk-venue"><strong>Security Research Group</strong>, The University of Melbourne</div>
+    <!-- <div class="talk-abstract">One or two sentences summarizing what the talk covered.</div> -->
+    <div class="talk-footer">
+      <div class="talk-links">
+        <a href="#">🎥 Video</a>
+      </div>
+      <span class="talk-format">Virtual</span>
+    </div>
+  </div>
+</div>
+
+<div class="talk-entry" markdown="0">
+  <div class="talk-when">
+    <div class="talk-month">[Mon]</div>
+    <div class="talk-day">[DD]</div>
+    <div class="talk-loc">📍 Hanoi, Vietnam</div>
+  </div>
+  <div class="talk-body">
+    <span class="talk-type-badge type-invited">Invited Talk</span>
+    <div class="talk-title">Neurosymbolic Artificial Intelligence: Theory, Applications, and Challenges</div>
+    <div class="talk-venue">Vin AI</div>
+    <!--<div class="talk-abstract">Brief note on the panel's theme and your role/contribution in the discussion.</div>-->
+    <div class="talk-footer">
+      <div class="talk-links">
+        <a href="https: //www.vinai.io/seminar-posts/neurosymbolic-artificial-intelligence-theory-applications- and-challenges/">Link</a>
+      </div>
+      <span class="talk-format">In-person</span>
+    </div>
+  </div>
+</div>
+
 <hr class="section-divider">
 
 <p style="text-align:center; color:#888; font-size:0.9em;">
