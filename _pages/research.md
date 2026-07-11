@@ -131,7 +131,7 @@ author_profile: true
   <div class="theme-card">
     <span class="icon">🧠</span>
     <h3>Theme 1: NeuroSymbolic/Neural-Symbolic</h3>
-    <p>Short description of the problem, why it matters, and your approach.</p>
+    <p>Bridging neural networks and symbolic reasoning to create AI that not only performs well, but can explain and justify its decisions.</p>
     <ul>
       <li><a href="#">Author et al., Venue Year</a></li>
       <li><a href="#">Author et al., Venue Year</a></li>
