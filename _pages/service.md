@@ -171,6 +171,72 @@ author_profile: true
   <div class="service-stat"><span class="num">[X]+</span><span class="label">Papers Reviewed</span></div>
 </div>
 
+
+
+## Professional Service
+
+<div class="service-grid" markdown="0">
+
+  <div class="service-card">
+    <div class="service-card-header">
+      <span class="emoji">🏅</span>
+      <h3>Organizing Roles</h3>
+      <span class="count">[X]</span>
+    </div>
+    <ul class="service-list">
+      <li><span class="venue">[Application Track Chair], ICONIP</span><span class="years">2026</span></li>
+      <li><span class="venue">[Industry Engagment Chair], ICONIP</span><span class="years">2026</span></li>
+      <li><span class="venue">[Local Organiser], KR</span><span class="years">2026</span></li>
+      <li><span class="venue">[Organizer], ICDAR</span><span class="years">2025, 2026</span></li>
+    </ul>
+  </div>
+
+  <div class="service-card">
+    <div class="service-card-header">
+      <span class="emoji">🧑‍⚖️</span>
+      <h3>Program Committee Member</h3>
+      <span class="count">[X]</span>
+    </div>
+    <ul class="service-list">
+      <li><span class="venue">[Conference Acronym]</span><span class="years">[Years]</span></li>
+      <li><span class="venue">[Conference Acronym]</span><span class="years">[Years]</span></li>
+      <li><span class="venue">[Conference Acronym]</span><span class="years">[Years]</span></li>
+      <li><span class="venue">[Conference Acronym]</span><span class="years">[Years]</span></li>
+    </ul>
+  </div>
+
+</div>
+
+## Journal Reviewer
+
+<p class="filter-note">Venues I have reviewed for as a peer reviewer:</p>
+
+<div class="reviewer-cloud" markdown="0">
+  <span class="reviewer-tag">AI Journal</span>
+  <span class="reviewer-tag">IEEE TNNLS</span>
+</div>
+
+
+## Conference Reviewer
+
+<p class="filter-note">Venues I have reviewed for as a peer reviewer:</p>
+
+<div class="reviewer-cloud" markdown="0">
+  <span class="reviewer-tag">NeurIPS</span>
+  <span class="reviewer-tag">ICML</span>
+  <span class="reviewer-tag">AAAI</span>
+  <span class="reviewer-tag">IJCAI</span>
+  <span class="reviewer-tag">AAMAS</span>
+  <span class="reviewer-tag">KR</span>
+  <span class="reviewer-tag">NeSy</span>
+  <span class="reviewer-tag">ECML</span>
+  <span class="reviewer-tag">EMNLP</span>
+  <span class="reviewer-tag">ACL</span>
+  <span class="reviewer-tag">ECAI</span>
+  <span class="reviewer-tag">SoICT</span>
+</div>
+
+
 ## Invited Talks
 
 <div class="talks-timeline" markdown="0">
@@ -213,61 +279,3 @@ author_profile: true
 
 <hr class="section-divider">
 
-## Professional Service
-
-<div class="service-grid" markdown="0">
-
-  <div class="service-card">
-    <div class="service-card-header">
-      <span class="emoji">🏅</span>
-      <h3>Chair / Organizing Roles</h3>
-      <span class="count">[X]</span>
-    </div>
-    <ul class="service-list">
-      <li><span class="venue">[Workshop/Track Name], [Conference]</span><span class="years">[Year]</span></li>
-      <li><span class="venue">[Workshop/Track Name], [Conference]</span><span class="years">[Year]</span></li>
-      <li><span class="venue">[Session Chair], [Conference]</span><span class="years">[Year]</span></li>
-    </ul>
-  </div>
-
-  <div class="service-card">
-    <div class="service-card-header">
-      <span class="emoji">🧑‍⚖️</span>
-      <h3>Program Committee Member</h3>
-      <span class="count">[X]</span>
-    </div>
-    <ul class="service-list">
-      <li><span class="venue">[Conference Acronym]</span><span class="years">[Years]</span></li>
-      <li><span class="venue">[Conference Acronym]</span><span class="years">[Years]</span></li>
-      <li><span class="venue">[Conference Acronym]</span><span class="years">[Years]</span></li>
-      <li><span class="venue">[Conference Acronym]</span><span class="years">[Years]</span></li>
-    </ul>
-  </div>
-
-  <div class="service-card">
-    <div class="service-card-header">
-      <span class="emoji">📝</span>
-      <h3>Journal Reviewer</h3>
-      <span class="count">[X]</span>
-    </div>
-    <ul class="service-list">
-      <li><span class="venue">[Journal Name]</span><span class="years">[Years]</span></li>
-      <li><span class="venue">[Journal Name]</span><span class="years">[Years]</span></li>
-    </ul>
-  </div>
-
-</div>
-
-## Conference Reviewer
-
-<p class="filter-note">Venues I have reviewed for as a peer reviewer:</p>
-
-<div class="reviewer-cloud" markdown="0">
-  <span class="reviewer-tag">NeurIPS</span>
-  <span class="reviewer-tag">ICML</span>
-  <span class="reviewer-tag">AAAI</span>
-  <span class="reviewer-tag">IJCAI</span>
-  <span class="reviewer-tag">[Venue]</span>
-  <span class="reviewer-tag">[Venue]</span>
-  <span class="reviewer-tag">[Venue]</span>
-</div>
