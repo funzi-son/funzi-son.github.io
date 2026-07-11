@@ -1,6 +1,6 @@
 ---
 title: "Invited Talks"
-permalink: /talks-invited/
+permalink: /talks/
 author_profile: true
 ---
 
