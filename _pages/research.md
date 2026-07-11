@@ -169,6 +169,7 @@ author_profile: true
 
 <hr class="section-divider">
 
+<!--
 ## Current Projects
 
 <div class="timeline" markdown="0">
@@ -200,7 +201,7 @@ author_profile: true
   <span class="tool-pill">[Method/Framework]</span>
   <span class="tool-pill">[Dataset/Tool]</span>
 </div>
-
+-->
 ## Collaborators
 
 <div class="collab-grid" markdown="0">
