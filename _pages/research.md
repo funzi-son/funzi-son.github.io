@@ -115,7 +115,7 @@ author_profile: true
 
 <div class="research-hero" markdown="0">
   <h2>What I work on</h2>
-  <p>My research focuses on making AI more transparent, reliable, low-cost, and applicable.</p>
+  <p>My research focuses on making AI more transparent, reliable, low-cost, and applicable. Check my <a href="https://scholar.google.com.au/citations?user=h82eCK8AAAAJ&hl=en">Google Scholar</a> for the full list of publication</p>
   <div class="badge-row">
     <span class="badge">Connectionist</span>
     <span class="badge">Symbolic</span>
@@ -218,5 +218,5 @@ author_profile: true
 <hr class="section-divider">
 
 <div class="notice--info" markdown="1">
-For the full list of papers, visit my <a href="/publications/">Publications</a> page. For talks and slides, see <a href="/talks/">Talks</a>.
+For the full list of papers, visit my <a href="https://scholar.google.com.au/citations?user=h82eCK8AAAAJ&hl=en">Publications</a> page. For talks and slides, see <a href="/talks/">Talks</a>.
 </div>
