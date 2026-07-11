@@ -3,14 +3,11 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Software"
-    url: /software
-    
   - title: "Activities"
     url: /activities/
 
-#  - title: "Honours"
-#    url: /honours/
+  - title: "Honours"
+    url: /honours/
     
 #  - title: "Talks"
 #    url: /talks/    
