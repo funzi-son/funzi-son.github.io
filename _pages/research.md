@@ -140,7 +140,7 @@ author_profile: true
 
   <div class="theme-card">
     <span class="icon">🛡️</span>
-    <h3>Theme 2: Safe & Reliable AI</h3>
+    <h3>Theme 2: Reliable & Low-cost AI</h3>
     <p>Short description of the problem and your contribution.</p>
     <ul>
       <li><a href="#">Author et al., Venue Year</a></li>
