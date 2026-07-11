@@ -87,7 +87,7 @@ author_profile: true
 }
 .member-photo img { width: 100%; height: 100%; object-fit: cover; }
 .member-name { font-weight: 700; font-size: 1.02em; color: #1f2933; margin-bottom: 2px; }
-.member-topic { font-size: 0.85em; color: #666; margin-bottom: 12px; min-height: 2.4em; }
+.member-role { font-size: 0.85em; color: #666; margin-bottom: 12px; min-height: 2.4em; }
 .member-links { display: flex; justify-content: center; gap: 8px; }
 .member-links a {
   width: 30px;
@@ -151,16 +151,10 @@ author_profile: true
 
 <div class="team-hero" markdown="0">
   <h2>Our Team</h2>
-  <p>Meet the researchers, engineers, and students behind our lab's work in AI, physics-informed learning, and dynamic systems.</p>
+  <p>Meet the researchers, engineers, and students behind our work in AI.</p>
 </div>
 
-<div class="team-stats" markdown="0">
-  <div class="team-stat"><span class="num">[X]</span><span class="label">Postdocs</span></div>
-  <div class="team-stat"><span class="num">[X]</span><span class="label">PhD Students</span></div>
-  <div class="team-stat"><span class="num">[X]</span><span class="label">RAs</span></div>
-  <div class="team-stat"><span class="num">[X]</span><span class="label">Honours</span></div>
-  <div class="team-stat"><span class="num">[X]</span><span class="label">Engineers</span></div>
-</div>
+<!--
 
 <div class="role-section-title" markdown="0">
   <span class="emoji">🔬</span> Postdoctoral Researchers <span class="role-count">[X]</span>
@@ -171,7 +165,7 @@ author_profile: true
   <div class="member-card">
     <div class="member-photo">👤</div>
     <div class="member-name">[Name]</div>
-    <div class="member-topic">[Research focus, e.g. Physics-informed neural networks]</div>
+    <div class="member-role">[Research focus, e.g. Physics-informed neural networks]</div>
     <div class="member-links">
       <a href="mailto:email@example.com" title="Email">✉️</a>
       <a href="#" title="Google Scholar">🎓</a>
@@ -181,16 +175,17 @@ author_profile: true
 
 </div>
 
+-->
 <div class="role-section-title" markdown="0">
-  <span class="emoji">🎓</span> PhD Students <span class="role-count">[X]</span>
+  <span class="emoji">🎓</span> Current 
 </div>
 
 <div class="member-grid" markdown="0">
 
   <div class="member-card">
     <div class="member-photo">👤</div>
-    <div class="member-name">[Name]</div>
-    <div class="member-topic">[Thesis topic, e.g. Neurosymbolic reasoning for UAV control]</div>
+    <div class="member-name">Spencer Gerontzos</div>
+    <div class="member-role">PhD Student, Safe RL</div>
     <div class="member-links">
       <a href="mailto:email@example.com" title="Email">✉️</a>
       <a href="#" title="Google Scholar">🎓</a>
@@ -200,8 +195,8 @@ author_profile: true
 
   <div class="member-card">
     <div class="member-photo">👤</div>
-    <div class="member-name">[Name]</div>
-    <div class="member-topic">[Thesis topic]</div>
+    <div class="member-name">Nivea Roy</div>
+    <div class="member-role">PhD Student, Medical Imaging</div>
     <div class="member-links">
       <a href="mailto:email@example.com" title="Email">✉️</a>
       <a href="#" title="Google Scholar">🎓</a>
@@ -211,8 +206,8 @@ author_profile: true
 
   <div class="member-card">
     <div class="member-photo">👤</div>
-    <div class="member-name">[Name]</div>
-    <div class="member-topic">[Thesis topic]</div>
+    <div class="member-name">Bahman Jafari Tabaghsar</div>
+    <div class="member-role">PhD Student, Explainable AI</div>
     <div class="member-links">
       <a href="mailto:email@example.com" title="Email">✉️</a>
       <a href="#" title="Google Scholar">🎓</a>
@@ -222,76 +217,14 @@ author_profile: true
 
 </div>
 
-<div class="role-section-title" markdown="0">
-  <span class="emoji">🧪</span> Research Assistants <span class="role-count">[X]</span>
-</div>
-
-<div class="member-grid" markdown="0">
-
-  <div class="member-card">
-    <div class="member-photo">👤</div>
-    <div class="member-name">[Name]</div>
-    <div class="member-topic">[Project involvement, e.g. Data pipeline for satellite trajectory dataset]</div>
-    <div class="member-links">
-      <a href="mailto:email@example.com" title="Email">✉️</a>
-      <a href="#" title="GitHub">💻</a>
-    </div>
-  </div>
-
-</div>
-
-<div class="role-section-title" markdown="0">
-  <span class="emoji">📘</span> Honours Students <span class="role-count">[X]</span>
-</div>
-
-<div class="member-grid" markdown="0">
-
-  <div class="member-card">
-    <div class="member-photo">👤</div>
-    <div class="member-name">[Name]</div>
-    <div class="member-topic">[Honours project title]</div>
-    <div class="member-links">
-      <a href="mailto:email@example.com" title="Email">✉️</a>
-    </div>
-  </div>
-
-  <div class="member-card">
-    <div class="member-photo">👤</div>
-    <div class="member-name">[Name]</div>
-    <div class="member-topic">[Honours project title]</div>
-    <div class="member-links">
-      <a href="mailto:email@example.com" title="Email">✉️</a>
-    </div>
-  </div>
-
-</div>
-
-<div class="role-section-title" markdown="0">
-  <span class="emoji">💻</span> Software Engineers <span class="role-count">[X]</span>
-</div>
-
-<div class="member-grid" markdown="0">
-
-  <div class="member-card">
-    <div class="member-photo">👤</div>
-    <div class="member-name">[Name]</div>
-    <div class="member-topic">[Role focus, e.g. ML infrastructure & deployment]</div>
-    <div class="member-links">
-      <a href="mailto:email@example.com" title="Email">✉️</a>
-      <a href="#" title="GitHub">💻</a>
-      <a href="#" title="LinkedIn">🔗</a>
-    </div>
-  </div>
-
-</div>
 
 <hr class="section-divider">
 
 ## Alumni
 
 <div class="alumni-list" markdown="0">
-  <span class="alumni-pill">[Name] <span class="now">— now at [Company/Institution]</span></span>
-  <span class="alumni-pill">[Name] <span class="now">— now at [Company/Institution]</span></span>
+  <span class="alumni-pill">Taige Zhao <span class="now">— </span></span>
+  <span class="alumni-pill">Jamal Maktoubian <span class="now">— now at Menzies Institute for Medical Research</span></span>
   <span class="alumni-pill">[Name] <span class="now">— now at [Company/Institution]</span></span>
 </div>
 
