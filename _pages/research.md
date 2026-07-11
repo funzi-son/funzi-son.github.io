@@ -210,9 +210,9 @@ author_profile: true
   <div class="collab-card"><strong><a href="https://blogs.deakin.edu.au/mila/" target="_blank" rel="noopener noreferrer"> Machine Intelligence Lab </a></strong><br><span class="inst">Deakin University</span></div>
 </div>
 <div class="collab-grid" markdown="0">
-  <div class="collab-card"><strong><a href="https://researchcentres.citystgeorges.ac.uk/acsml" target="_blank" rel="noopener noreferrer"> Research Centre for Machine Learning </a>  </strong><br><span class="inst">City st George's, University of London</span></div>
-  <div class="collab-card"><strong><a href="https://blogs.deakin.edu.au/mila/" target="_blank" rel="noopener noreferrer"> Machine Intelligence Lab </a></strong><br><span class="inst">Deakin University</span></div>
-  <div class="collab-card"><strong>Data Mining and Knowledge Discovery Group</strong><br><span class="inst">Deakin University</span></div>
+  <div class="collab-card"><strong>Data Mining and Knowledge Discovery Group</strong><br><span class="inst">Deakin University</span></div>  
+  <div class="collab-card"><strong><a href="https://aisia.vn/" target="_blank" rel="noopener noreferrer"> AISIA Lab </a>  </strong><br><span class="inst">Vietnam</span></div>
+  <div class="collab-card"><strong><a href="https://uet.vnu.edu.vn/~trongld/" target="_blank" rel="noopener noreferrer"> Trong's Lab </a></strong><br><span class="inst">UET-Vietnam National University Hanoi</span></div>
 </div>
 
 <hr class="section-divider">
