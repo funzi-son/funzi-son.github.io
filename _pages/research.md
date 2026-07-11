@@ -133,8 +133,8 @@ author_profile: true
     <h3>Theme 1: NeuroSymbolic/Neural-Symbolic</h3>
     <p>Bridging neural networks and symbolic reasoning to create AI that not only performs well, but can explain and justify its decisions.</p>
     <ul>
-      <li><a href="#">Author et al., Venue Year</a></li>
-      <li><a href="#">Author et al., Venue Year</a></li>
+      <li><a href="#">Confidence Neural Logic</a></li>
+      <li><a href="#">Concept Logic Networks</a></li>
     </ul>
   </div>
 

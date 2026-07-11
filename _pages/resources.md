@@ -183,12 +183,11 @@ author_profile: true
       <span class="icon">⚙️</span>
       <span class="res-status status-active">Active</span>
     </div>
-    <h3>[Project Name]</h3>
-    <p class="desc">One or two sentences describing what this tool does and who it's for — researchers, engineers, or both.</p>
+    <h3>CNLM</h3>
+    <p class="desc">Confidence Neural Logic Machines</p>
     <div class="tag-row">
       <span class="res-tag">Python</span>
-      <span class="res-tag">MIT License</span>
-      <span class="res-tag">v2.1</span>
+      <span class="res-tag">CC BY-NC</span>
     </div>
     <div class="btn-row">
       <a class="res-btn btn-primary" href="#">💻 GitHub</a>
@@ -199,18 +198,19 @@ author_profile: true
 
   <div class="res-card">
     <div class="res-card-top">
-      <span class="icon">🧩</span>
-      <span class="res-status status-beta">Beta</span>
+      <span class="icon">⚙️</span>
+      <span class="res-status status-active">Active</span>
     </div>
-    <h3>[Project Name]</h3>
-    <p class="desc">Short description of the software, its core feature, and the problem it solves.</p>
+    <h3>FysAI</h3>
+    <p class="desc">Physics and AI</p>
     <div class="tag-row">
-      <span class="res-tag">PyTorch</span>
-      <span class="res-tag">Apache 2.0</span>
+      <span class="res-tag">Python</span>
+      <span class="res-tag">CC BY-NC</span>
     </div>
     <div class="btn-row">
       <a class="res-btn btn-primary" href="#">💻 GitHub</a>
       <a class="res-btn btn-secondary" href="#">📄 Docs</a>
+      <a class="res-btn btn-secondary" href="#">📝 Paper</a>
     </div>
   </div>
 
