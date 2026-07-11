@@ -153,6 +153,15 @@ redirect_from:
   <div class="quickfact"><span class="num">[X]</span><span class="label">Collaborators</span></div>
 </div>
 
+## Research Opportunities
+
+I am always interested in working with motivated students. If you are interested in doing research with me, please send your CV to **son.tran@deakin.edu.au** or **sontn.fz@gmail.com**.
+
+**For PhD applicants:** please ensure you meet the following before reaching out:
+- At least one first-author paper published in an A/A*/Q1-ranked venue
+- IELTS score of 6.5 overall, with no band below 6.0 (for international applicants)
+
+
 ## News
 
 <div class="timeline" markdown="0">
@@ -173,25 +182,6 @@ redirect_from:
     <p>🏆 Received [Award Name].</p>
   </div>
 </div>
-
-<hr class="section-divider">
-
-## Education
-
-<ul class="edu-list" markdown="0">
-  <li class="edu-item">
-    <div><span class="degree">Ph.D. in [Field]</span><br><span class="school">[University]</span></div>
-    <span class="year">[Year–Present]</span>
-  </li>
-  <li class="edu-item">
-    <div><span class="degree">M.S. in [Field]</span><br><span class="school">[University]</span></div>
-    <span class="year">[Year]</span>
-  </li>
-  <li class="edu-item">
-    <div><span class="degree">B.S. in [Field]</span><br><span class="school">[University]</span></div>
-    <span class="year">[Year]</span>
-  </li>
-</ul>
 
 <hr class="section-divider">
 
