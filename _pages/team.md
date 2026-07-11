@@ -207,7 +207,7 @@ author_profile: true
   <div class="member-card">
     <div class="member-photo">👤</div>
     <div class="member-name">Bahman Jafari Tabaghsar</div>
-    <div class="member-role">PhD Student, Explainable AI</div>
+    <div class="member-role">PhD Student, XAI</div>
     <div class="member-links">
       <a href="mailto:s225118376@deakin.edu.au" title="Email">✉️</a>
       <a href="https://scholar.google.com/citations?hl=en&user=o6y832wAAAAJ" title="Google Scholar">🎓</a>

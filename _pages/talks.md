@@ -126,15 +126,16 @@ author_profile: true
 
 <div class="talks-hero" markdown="0">
   <h2>Invited Talks</h2>
-  <p>Keynotes, invited lectures, and seminar talks presenting our research on physics-informed AI and dynamic systems to academic and industry audiences worldwide.</p>
 </div>
 
+<!--
 <div class="talks-stats" markdown="0">
   <div class="talks-stat"><span class="num">[X]</span><span class="label">Total Talks</span></div>
   <div class="talks-stat"><span class="num">[X]</span><span class="label">Keynotes</span></div>
   <div class="talks-stat"><span class="num">[X]</span><span class="label">Countries</span></div>
   <div class="talks-stat"><span class="num">[X]</span><span class="label">Institutions</span></div>
 </div>
+-->
 
 <div class="legend-row" markdown="0">
   <span><span class="legend-dot" style="background:#c0392b;"></span> Keynote</span>
@@ -147,14 +148,14 @@ author_profile: true
 
 <div class="talk-entry" markdown="0">
   <div class="talk-when">
-    <div class="talk-month">[Mon]</div>
-    <div class="talk-day">[DD]</div>
-    <div class="talk-loc">📍 [City, Country]</div>
+    <div class="talk-month">Jan</div>
+    <!--<div class="talk-day">[DD]</div>-->
+    <div class="talk-loc">📍 [Hanoi, Vietnam]</div>
   </div>
   <div class="talk-body">
-    <span class="talk-type-badge type-keynote">Keynote</span>
-    <div class="talk-title">[Talk Title]</div>
-    <div class="talk-venue"><strong>[Conference/Event Name]</strong> — hosted by [Organization]</div>
+    <span class="talk-type-badge type-seminar"> Seminar</span>
+    <div class="talk-title">AI for Data Analytics</div>
+    <div class="talk-venue"><strong>UEB-Vietnam National University Hanoi</strong> — hosted by UEB</div>
     <div class="talk-abstract">One or two sentences summarizing what the talk covered — key ideas, results, or the story you told the audience.</div>
     <div class="talk-footer">
       <div class="talk-links">
