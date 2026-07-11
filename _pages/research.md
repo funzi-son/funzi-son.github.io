@@ -115,7 +115,7 @@ author_profile: true
 
 <div class="research-hero" markdown="0">
   <h2>What I work on</h2>
-  <p>My research focuses on making AI more transparent, reliable, low-cost, and applicable. Check my <a href="https://scholar.google.com.au/citations?user=h82eCK8AAAAJ&hl=en">Google Scholar</a> for the full list of publication</p>
+  <p>My research focuses on making AI more transparent, reliable, low-cost, and applicable. Check my <a href="https://scholar.google.com.au/citations?user=h82eCK8AAAAJ&hl=en">Google Scholar</a> for the full list of publications.</p>
   <div class="badge-row">
     <span class="badge">Connectionist</span>
     <span class="badge">Symbolic</span>
