@@ -215,8 +215,52 @@ author_profile: true
     </div>
   </div>
 
+
+  <div class="member-card">
+    <div class="member-photo">👤</div>
+    <div class="member-name">Nam Nguyen</div>
+    <div class="member-role">PhD Student, Quantum AI/Op</div>
+    <div class="member-links">
+      <a href="mailto:email@example.com" title="Email">✉️</a>
+      <a href="#" title="Google Scholar">🎓</a>
+      <a href="#" title="GitHub">💻</a>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-photo">👤</div>
+    <div class="member-name">Nam Luu</div>
+    <div class="member-role">PhD Student, Trajectory Forecast</div>
+    <div class="member-links">
+      <a href="mailto:email@example.com" title="Email">✉️</a>
+      <a href="#" title="Google Scholar">🎓</a>
+      <a href="#" title="GitHub">💻</a>
+    </div>
+  </div>
+
+  <div class="member-card">
+    <div class="member-photo">👤</div>
+    <div class="member-name">Minh Vu</div>
+    <div class="member-role">Honours & RA, ML for Dynamic Modelling</div>
+    <div class="member-links">
+      <a href="mailto:email@example.com" title="Email">✉️</a>
+      <a href="#" title="Google Scholar">🎓</a>
+      <a href="#" title="GitHub">💻</a>
+    </div>
+  </div>
+
 </div>
 
+<div class="member-card">
+    <div class="member-photo">👤</div>
+    <div class="member-name">Bahman Jafari Tabaghsar</div>
+    <div class="member-role">PhD Student, Explainable AI</div>
+    <div class="member-links">
+      <a href="mailto:email@example.com" title="Email">✉️</a>
+      <a href="#" title="Google Scholar">🎓</a>
+      <a href="#" title="GitHub">💻</a>
+    </div>
+  </div>
 
 <hr class="section-divider">
 
