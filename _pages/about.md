@@ -138,7 +138,7 @@ redirect_from:
 
 <div class="about-hero" markdown="0">
   <h2>Hi, I'm Son Tran!</h2>
-  <p>I am a computer scientist with a Ph.D. in Computer Science from City, University of London, United Kingdom. My research is dedicated to building reliable, scalable, and robust artificial intelligence systems that advance human well-being. I apply this work across diverse domains, including agriculture, healthcare, and autonomous systems. I am currently a Senior Lecturer at Deakin University. You are welcome to visit my <a href="https://experts.deakin.edu.au/63781-son-tran">academic webpage</a>./p>
+  <p>I am a computer scientist with a Ph.D. in Computer Science from City, University of London, United Kingdom. My research is dedicated to building reliable, scalable, and robust artificial intelligence systems that advance human well-being. I apply this work across diverse domains, including agriculture, healthcare, and autonomous systems. I am currently a Senior Lecturer at Deakin University. You are welcome to visit my <a href="https://experts.deakin.edu.au/63781-son-tran">academic webpage</a>.</p>
   <div class="badge-row">
     <span class="badge">📍 Melbourne, AU</span>
     <span class="badge">🎓 Computer Science</span>
