@@ -160,16 +160,10 @@ author_profile: true
 }
 </style>
 
-<div class="res-hero" markdown="0">
-  <h2>Resources</h2>
-  <p>Open-source software, curated datasets, and interactive demos from our lab — built to be reused, extended, and integrated into your own research or products.</p>
-</div>
-
-<div class="res-stats" markdown="0">
-  <div class="res-stat"><span class="num">[X]</span><span class="label">Repositories</span></div>
-  <div class="res-stat"><span class="num">[X]</span><span class="label">Datasets</span></div>
-  <div class="res-stat"><span class="num">[X]</span><span class="label">Live Demos</span></div>
-  <div class="res-stat"><span class="num">[X]k+</span><span class="label">Downloads</span></div>
+<div class="sponsor-cta" markdown="0">
+  <h3>Interested in Sponsoring or Collaborating?</h3>
+  <p>We partner with companies and organizations to extend our tools, scale our datasets, and bring research into real-world use. If our resources are useful to your work, we'd love to talk.</p>
+  <a class="res-btn" href="mailto:your.email@example.com">Get in Touch →</a>
 </div>
 
 ## Software & Code
@@ -301,6 +295,7 @@ author_profile: true
 
 <hr class="section-divider">
 
+<!--
 ## Citing Our Work
 
 If you use our software or datasets in your research, please cite:
@@ -313,9 +308,5 @@ If you use our software or datasets in your research, please cite:
   year    = {2026}
 }
 ```
+-->
 
-<div class="sponsor-cta" markdown="0">
-  <h3>Interested in Sponsoring or Collaborating?</h3>
-  <p>We partner with companies and organizations to extend our tools, scale our datasets, and bring research into real-world use. If our resources are useful to your work, we'd love to talk.</p>
-  <a class="res-btn" href="mailto:your.email@example.com">Get in Touch →</a>
-</div>
