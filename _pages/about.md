@@ -145,13 +145,14 @@ redirect_from:
     <span class="badge">✉️ [sontn.fz@gmail.com]</span>
   </div>
 </div>
-
+<!-- 
 <div class="quickfacts" markdown="0">
   <div class="quickfact"><span class="num">[X]</span><span class="label">Publications</span></div>
   <div class="quickfact"><span class="num">[X]</span><span class="label">Years Researching</span></div>
   <div class="quickfact"><span class="num">[X]</span><span class="label">Talks Given</span></div>
   <div class="quickfact"><span class="num">[X]</span><span class="label">Collaborators</span></div>
 </div>
+-->
 
 ## Research Opportunities
 
