@@ -115,12 +115,12 @@ author_profile: true
 
 <div class="research-hero" markdown="0">
   <h2>What I work on</h2>
-  <p>My research focuses on <strong>[broad research area]</strong>, with an emphasis on <strong>[specific angle or application]</strong>. I'm driven by two questions: <em>[key question 1]</em> and <em>[key question 2]</em>.</p>
+  <p>My research focuses on making AI more transparent, reliable, and low-cost</em>.</p>
   <div class="badge-row">
-    <span class="badge">Machine Learning</span>
-    <span class="badge">[Your Field]</span>
-    <span class="badge">[Sub-area]</span>
-    <span class="badge">[Application Domain]</span>
+    <span class="badge">Connectionist</span>
+    <span class="badge">Symbolic</span>
+    <span class="badge">Quantum</span>
+    <span class="badge">Applications</span>
   </div>
 </div>
 
