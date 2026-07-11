@@ -6,14 +6,17 @@ main:
   - title: "Resources"
     url: /resources
     
-  - title: "Activities"
-    url: /activities/
+  - title: "Talks"
+    url: /talks/
 
   - title: "Service"
     url: /service/
 
   - title: "Team"
     url: /team/ 
+
+  - title: "Activities"
+    url: /activities/
 
 #  - title: "Honours"
 #    url: /honours/
