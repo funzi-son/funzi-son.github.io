@@ -249,8 +249,6 @@ author_profile: true
     </div>
   </div>
 
-</div>
-
 <div class="member-card">
     <div class="member-photo">👤</div>
     <div class="member-name">Xinyi Wang</div>
@@ -272,7 +270,8 @@ author_profile: true
       <a href="#" title="GitHub">💻</a>
     </div>
   </div>
-
+  
+</div>
 <hr class="section-divider">
 
 ## Alumni
