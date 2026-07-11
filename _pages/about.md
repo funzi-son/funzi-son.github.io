@@ -155,7 +155,7 @@ redirect_from:
 
 ## Research Opportunities
 
-I am always interested in working with motivated students. If you are interested in doing research with me, please send your CV to **son.tran@deakin.edu.au** or **sontn.fz@gmail.com**.
+I am always interested in working with motivated students. If you are interested in doing research with me, please send your CV.
 
 **For PhD applicants:** please ensure you meet the following before reaching out:
 - At least one first-author paper published in an A/A*/Q1-ranked venue
@@ -166,20 +166,20 @@ I am always interested in working with motivated students. If you are interested
 
 <div class="timeline" markdown="0">
   <div class="timeline-item">
-    <span class="date">[Month Year]</span>
-    <p>🎉 [Paper title] accepted at <strong>[Venue]</strong>!</p>
+    <span class="date">[May 2026]</span>
+    <p> [KC-S2O: Kinematically Constrained Sequence-to-ODE for 3D Trajectory Forecasting] accepted at <strong>ECML 2026</strong>!</p>
   </div>
   <div class="timeline-item">
     <span class="date">[Month Year]</span>
-    <p>🚀 Started as a [role] at [Institution].</p>
+    <p>🚀 Started as a [High Degree Research Coordinator] at [Deakin University].</p>
   </div>
   <div class="timeline-item">
     <span class="date">[Month Year]</span>
-    <p>🎤 Gave a talk on [topic] at [Event].</p>
+    <p>🎤 Gave a talk on [AI for Business Analytics] at [UEB Vietnam National University Hanoi].</p>
   </div>
   <div class="timeline-item">
-    <span class="date">[Month Year]</span>
-    <p>🏆 Received [Award Name].</p>
+    <span class="date">[Dec 2025]</span>
+    <p>🏆 Received [Best Paper Award Honorable Mention] at AJCAI 2025.</p>
   </div>
 </div>
 
