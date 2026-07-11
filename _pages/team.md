@@ -289,9 +289,6 @@ author_profile: true
   <span class="alumni-pill">Xinping Liu</span>
   <span class="alumni-pill">Wenke Zhao</span>
   <span class="alumni-pill">Gemju Sherpa</span>
-
-  
-  <span class="alumni-pill">[Name] <span class="now">— now at [Company/Institution]</span></span>
 </div>
 
 <div class="join-cta" markdown="0">
