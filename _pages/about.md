@@ -137,12 +137,12 @@ redirect_from:
 </style>
 
 <div class="about-hero" markdown="0">
-  <h2>Hi, I'm Son Tran 👋</h2>
+  <h2>Hi, I'm Son Tran!</h2>
   <p>I am a computer scientist with a Ph.D. in Computer Science from City, University of London, United Kingdom. My research is dedicated to building reliable, scalable, and robust artificial intelligence systems that advance human well-being. I apply this work across diverse domains, including agriculture, healthcare, and autonomous systems.</p>
   <div class="badge-row">
-    <span class="badge">📍 [City, Country]</span>
-    <span class="badge">🎓 [Field of Study]</span>
-    <span class="badge">✉️ [email]</span>
+    <span class="badge">📍 [Melbourne, AU]</span>
+    <span class="badge">🎓 [Computer Science]</span>
+    <span class="badge">✉️ [sontn.fz@gmail.com]</span>
   </div>
 </div>
 
@@ -152,30 +152,6 @@ redirect_from:
   <div class="quickfact"><span class="num">[X]</span><span class="label">Talks Given</span></div>
   <div class="quickfact"><span class="num">[X]</span><span class="label">Collaborators</span></div>
 </div>
-
-Before joining [Institution], I completed my [degree] in [field] at [Previous Institution], where I worked with [Name] on [topic]. My current work explores [current project, 1-2 sentences with a bit more technical detail than the intro above].
-
-## Research Interests
-
-<div class="interest-grid" markdown="0">
-  <div class="interest-card">
-    <span class="icon">🧠</span>
-    <h4>[Interest 1]</h4>
-    <p>Brief one-line description of what draws you to this area.</p>
-  </div>
-  <div class="interest-card">
-    <span class="icon">📊</span>
-    <h4>[Interest 2]</h4>
-    <p>Brief one-line description.</p>
-  </div>
-  <div class="interest-card">
-    <span class="icon">🌐</span>
-    <h4>[Interest 3]</h4>
-    <p>Brief one-line description.</p>
-  </div>
-</div>
-
-<hr class="section-divider">
 
 ## News
 
