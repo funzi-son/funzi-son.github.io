@@ -270,7 +270,7 @@ author_profile: true
       <a href="#" title="GitHub">💻</a>
     </div>
   </div>
-  
+
 </div>
 <hr class="section-divider">
 
@@ -281,13 +281,14 @@ author_profile: true
   <span class="alumni-pill">Rami Mohawesh<span class="now">— now at xxx</span></span>
   <span class="alumni-pill">Yuchen Wei <span class="now">— now at xxx</span></span>
   <span class="alumni-pill">Taige Zhao</span>
-  <span class="alumni-pill"> Jianping Yao</span> 
+  <span class="alumni-pill">Jianping Yao</span> 
   <span class="alumni-pill">Guan Huang </span>
   <span class="alumni-pill">Jiejun Huo </span>
   <span class="alumni-pill">Bijaya Bhattarrai  </span>
   <span class="alumni-pill">Yunjue Zhou </span>
-  <span class="alumni-pill"> Xinping Liu</span>
-  <span class="alumni-pill">  Wenke Zhao</span>
+  <span class="alumni-pill">Xinping Liu</span>
+  <span class="alumni-pill">Wenke Zhao</span>
+  <span class="alumni-pill">Gemju Sherpa</span>
 
   
   <span class="alumni-pill">[Name] <span class="now">— now at [Company/Institution]</span></span>
