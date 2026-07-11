@@ -170,11 +170,11 @@ I am always interested in working with motivated students. If you are interested
     <p> [KC-S2O: Kinematically Constrained Sequence-to-ODE for 3D Trajectory Forecasting] accepted at <strong>ECML 2026</strong>!</p>
   </div>
   <div class="timeline-item">
-    <span class="date">[Month Year]</span>
+    <span class="date">[Feb 2026]</span>
     <p>🚀 Started as a [High Degree Research Coordinator] at [Deakin University].</p>
   </div>
   <div class="timeline-item">
-    <span class="date">[Month Year]</span>
+    <span class="date">[Jan 2026]</span>
     <p>🎤 Gave a talk on [AI for Business Analytics] at [UEB Vietnam National University Hanoi].</p>
   </div>
   <div class="timeline-item">
@@ -185,14 +185,3 @@ I am always interested in working with motivated students. If you are interested
 
 <hr class="section-divider">
 
-## Get in Touch
-
-I'm always happy to chat about research, collaborations, or opportunities. Reach out below: test
-
-<div class="contact-row" markdown="0">
-  <a class="contact-pill" href="mailto:your.email@example.com">✉️ Email</a>
-  <a class="contact-pill" href="https://scholar.google.com/">🎓 Google Scholar</a>
-  <a class="contact-pill" href="https://github.com/yourusername">💻 GitHub</a>
-  <a class="contact-pill" href="https://linkedin.com/in/yourusername">🔗 LinkedIn</a>
-  <a class="contact-pill" href="https://twitter.com/yourusername">🐦 Twitter</a>
-</div>
