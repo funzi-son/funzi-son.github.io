@@ -179,7 +179,7 @@ author_profile: true
 
   <div class="service-card">
     <div class="service-card-header">
-      <span class="emoji">🏅</span>
+      <span class="emoji">🧑‍⚖️</span>
       <h3>Organizing Roles</h3>
       <span class="count">[X]</span>
     </div>
@@ -192,25 +192,41 @@ author_profile: true
     </ul>
   </div>
 
-  <div class="service-card">
-    <div class="service-card-header">
-      <span class="emoji">🧑‍⚖️</span>
-      <h3>Program Committee Member</h3>
-      <span class="count">[X]</span>
-    </div>
-    <ul class="service-list">
-      <li><span class="venue">[Conference Acronym]</span><span class="years">[Years]</span></li>
-      <li><span class="venue">[Conference Acronym]</span><span class="years">[Years]</span></li>
-      <li><span class="venue">[Conference Acronym]</span><span class="years">[Years]</span></li>
-      <li><span class="venue">[Conference Acronym]</span><span class="years">[Years]</span></li>
-    </ul>
-  </div>
+</div>
 
+## Senior PC Member
+
+<div class="reviewer-cloud" markdown="0">
+  <span class="reviewer-tag">ECAI</span>
+</div>
+
+
+## PC Member
+
+<div class="reviewer-cloud" markdown="0">
+  <span class="reviewer-tag">NeurIPS</span>
+  <span class="reviewer-tag">ICML</span>
+  <span class="reviewer-tag">AAAI</span>
+  <span class="reviewer-tag">IJCAI</span>
+  <span class="reviewer-tag">AAMAS</span>
+  <span class="reviewer-tag">KR</span>
+  <span class="reviewer-tag">ECML</span>
+  <span class="reviewer-tag">EMNLP</span>
+  <span class="reviewer-tag">ACL</span>
+</div>
+
+## Session Chair
+
+<p class="filter-note">Journals I have reviewed for as a peer reviewer:</p>
+
+<div class="reviewer-cloud" markdown="0">
+  <span class="reviewer-tag">AAAI</span>
+  <span class="reviewer-tag">ICONIP</span>
 </div>
 
 ## Journal Reviewer
 
-<p class="filter-note">Venues I have reviewed for as a peer reviewer:</p>
+<p class="filter-note">Conferences I have reviewed for as a peer reviewer:</p>
 
 <div class="reviewer-cloud" markdown="0">
   <span class="reviewer-tag">AI Journal</span>
