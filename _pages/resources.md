@@ -163,7 +163,7 @@ author_profile: true
 <div class="sponsor-cta" markdown="0">
   <h3>Interested in Sponsoring or Collaborating?</h3>
   <p>We partner with companies and organizations to extend our tools, scale our datasets, and bring research into real-world use. If our resources are useful to your work, we'd love to talk.</p>
-  <a class="res-btn" href="mailto:your.email@example.com">Get in Touch →</a>
+  <a class="res-btn" href="mailto:sontn.fz@gmail.com">Get in Touch →</a>
 </div>
 
 ## Software & Code
