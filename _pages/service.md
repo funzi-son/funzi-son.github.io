@@ -217,8 +217,6 @@ author_profile: true
 
 ## Session Chair
 
-<p class="filter-note">Journals I have reviewed for as a peer reviewer:</p>
-
 <div class="reviewer-cloud" markdown="0">
   <span class="reviewer-tag">AAAI</span>
   <span class="reviewer-tag">ICONIP</span>
@@ -226,17 +224,21 @@ author_profile: true
 
 ## Journal Reviewer
 
-<p class="filter-note">Conferences I have reviewed for as a peer reviewer:</p>
+<p class="filter-note">Journals I have reviewed for as a peer reviewer:</p>
 
 <div class="reviewer-cloud" markdown="0">
   <span class="reviewer-tag">AI Journal</span>
   <span class="reviewer-tag">IEEE TNNLS</span>
+  <span class="reviewer-tag">IJAR</span>
+  <span class="reviewer-tag">Neural Networks</span>
+  <span class="reviewer-tag">IEEE TETC</span>
+  <span class="reviewer-tag">IEEE CYB</span>
 </div>
 
 
 ## Conference Reviewer
 
-<p class="filter-note">Venues I have reviewed for as a peer reviewer:</p>
+<p class="filter-note">Conferences I have reviewed for as a peer reviewer:</p>
 
 <div class="reviewer-cloud" markdown="0">
   <span class="reviewer-tag">NeurIPS</span>
