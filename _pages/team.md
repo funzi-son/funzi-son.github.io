@@ -198,9 +198,9 @@ author_profile: true
     <div class="member-name">Nivea Roy</div>
     <div class="member-role">PhD Student, Medical Imaging</div>
     <div class="member-links">
-      <a href="mailto:email@example.com" title="Email">✉️</a>
-      <a href="#" title="Google Scholar">🎓</a>
-      <a href="#" title="GitHub">💻</a>
+      <a href="mailto:s224862388@deakin.edu.au" title="Email">✉️</a>
+      <a href="https://scholar.google.com/citations?user=fQV9vQEAAAAJ&hl=en" title="Google Scholar">🎓</a>
+      <!-- <a href="#" title="GitHub">💻</a> -->
     </div>
   </div>
 
@@ -209,9 +209,9 @@ author_profile: true
     <div class="member-name">Bahman Jafari Tabaghsar</div>
     <div class="member-role">PhD Student, Explainable AI</div>
     <div class="member-links">
-      <a href="mailto:email@example.com" title="Email">✉️</a>
-      <a href="#" title="Google Scholar">🎓</a>
-      <a href="#" title="GitHub">💻</a>
+      <a href="mailto:s225118376@deakin.edu.au" title="Email">✉️</a>
+      <a href="https://scholar.google.com/citations?hl=en&user=o6y832wAAAAJ" title="Google Scholar">🎓</a>
+      <!-- <a href="#" title="GitHub">💻</a> -->
     </div>
   </div>
 
@@ -221,9 +221,9 @@ author_profile: true
     <div class="member-name">Nam Nguyen</div>
     <div class="member-role">PhD Student, Quantum AI/Op</div>
     <div class="member-links">
-      <a href="mailto:email@example.com" title="Email">✉️</a>
-      <a href="#" title="Google Scholar">🎓</a>
-      <a href="#" title="GitHub">💻</a>
+      <a href="mailto:s226467675@deakin.edu.au" title="Email">✉️</a>
+      <a href="https://scholar.google.com/citations?user=FON17ToAAAAJ&hl=en" title="Google Scholar">🎓</a>
+      <a href="https://github.com/namnguyen0510" title="GitHub">💻</a>
     </div>
   </div>
 
@@ -232,9 +232,9 @@ author_profile: true
     <div class="member-name">Nam Luu</div>
     <div class="member-role">PhD Student, Trajectory Forecast</div>
     <div class="member-links">
-      <a href="mailto:email@example.com" title="Email">✉️</a>
-      <a href="#" title="Google Scholar">🎓</a>
-      <a href="#" title="GitHub">💻</a>
+      <a href="mailto:lgnam@hcmus.edu.vn" title="Email">✉️</a>
+      <a href="https://scholar.google.com/citations?hl=vi&user=2-ytO7UAAAAJ" title="Google Scholar">🎓</a>
+      <!--<a href="#" title="GitHub">💻</a>-->
     </div>
   </div>
 
@@ -243,9 +243,9 @@ author_profile: true
     <div class="member-name">Minh Vu</div>
     <div class="member-role">Honours & RA, ML for Dynamic Modelling</div>
     <div class="member-links">
-      <a href="mailto:email@example.com" title="Email">✉️</a>
-      <a href="#" title="Google Scholar">🎓</a>
-      <a href="#" title="GitHub">💻</a>
+      <a href="mailto:ngocminh057.csp@gmail.com" title="Email">✉️</a>
+      <a href="https://scholar.google.com/citations?user=8MVxPoAAAAAJ&hl=en" title="Google Scholar">🎓</a>
+      <a href="https://github.com/MaveVu" title="GitHub">GitHub</a>
     </div>
   </div>
 
