@@ -1,5 +1,5 @@
 ---
-title: "Talks & Service"
+title: "Service"
 permalink: /service/
 author_profile: true
 ---
@@ -158,18 +158,6 @@ author_profile: true
   margin: 40px 0;
 }
 </style>
-
-<div class="service-hero" markdown="0">
-  <h2>Talks & Service</h2>
-  <p>Invited talks, editorial and organizing roles, and peer-review contributions to the research community.</p>
-</div>
-
-<div class="service-stats" markdown="0">
-  <div class="service-stat"><span class="num">[X]</span><span class="label">Invited Talks</span></div>
-  <div class="service-stat"><span class="num">[X]</span><span class="label">PC Memberships</span></div>
-  <div class="service-stat"><span class="num">[X]</span><span class="label">Chair Roles</span></div>
-  <div class="service-stat"><span class="num">[X]+</span><span class="label">Papers Reviewed</span></div>
-</div>
 
 
 
