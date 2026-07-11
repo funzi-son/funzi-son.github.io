@@ -180,7 +180,7 @@ I am always interested in working with motivated students. If you are interested
   </div>
   <div class="timeline-item">
     <span class="date">Dec 2025</span>
-    <p>🏆 Received Best Paper Award Honorable Mention at AJCAI 2025.</p>
+    <p>🏆 Received <it>Best Paper Award Honorable Mention</it> at <it>AJCAI 2025</it>.</p>
   </div>
 </div>
 
