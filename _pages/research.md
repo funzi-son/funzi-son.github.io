@@ -115,7 +115,7 @@ author_profile: true
 
 <div class="research-hero" markdown="0">
   <h2>What I work on</h2>
-  <p>My research focuses on making AI more transparent, reliable, and low-cost</em>.</p>
+  <p>My research focuses on making AI more transparent, reliable, low-cost, and applicable</em>.</p>
   <div class="badge-row">
     <span class="badge">Connectionist</span>
     <span class="badge">Symbolic</span>
