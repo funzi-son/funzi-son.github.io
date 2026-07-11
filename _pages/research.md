@@ -169,13 +169,3 @@ author_profile: true
 For the full list of papers, visit my <a href="/publications/">Publications</a> page. For talks and slides, see <a href="/talks/">Talks</a>.
 </div>~
 
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
-{% endfor %}
