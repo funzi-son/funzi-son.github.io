@@ -2,233 +2,231 @@
 permalink: /
 title: "About me"
 excerpt: "About me"
-author_profile: false
+author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
 <style>
-.resume-wrap {
-  display: flex;
-  flex-wrap: wrap;
-  min-height: 500px;
+.about-hero {
+  background: linear-gradient(135deg, #2c3e50 0%, #4a6572 100%);
+  color: #fff;
+  padding: 40px 30px;
   border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.12);
-  margin-bottom: 30px;
+  margin-bottom: 35px;
+}
+.about-hero h2 { color: #fff; margin-top: 0; }
+.about-hero p { font-size: 1.05em; opacity: 0.92; margin-bottom: 0; }
+
+.badge-row { margin: 15px 0 0 0; }
+.badge {
+  display: inline-block;
+  background: rgba(255,255,255,0.15);
+  border: 1px solid rgba(255,255,255,0.4);
+  color: #fff;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 0.8em;
+  margin: 3px 4px 3px 0;
 }
 
-/* ---- Sidebar ---- */
-.resume-sidebar {
-  flex: 1 1 280px;
-  background: #1f2933;
-  color: #e4e7eb;
-  padding: 45px 30px;
+.quickfacts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 14px;
+  margin: 0 0 35px 0;
+}
+.quickfact {
+  background: #f6f8fa;
+  border-radius: 8px;
+  padding: 14px 10px;
   text-align: center;
 }
-.resume-photo {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  background: #3e4c59;
-  margin: 0 auto 20px auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 2.5em;
-  border: 4px solid #52606d;
-  overflow: hidden;
-}
-.resume-photo img { width: 100%; height: 100%; object-fit: cover; }
-.resume-sidebar h2 { color: #fff; margin: 0 0 4px 0; font-size: 1.4em; }
-.resume-sidebar .role { color: #9aa5b1; font-size: 0.95em; margin-bottom: 20px; }
+.quickfact .num { font-size: 1.5em; font-weight: 700; color: #2c3e50; display: block; }
+.quickfact .label { font-size: 0.78em; color: #666; text-transform: uppercase; letter-spacing: 0.4px; }
 
-.social-row {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin-bottom: 25px;
+.interest-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  margin: 20px 0 35px 0;
 }
-.social-row a {
-  width: 38px;
-  height: 38px;
-  border-radius: 50%;
-  background: #323f4b;
-  color: #fff !important;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-decoration: none !important;
-  font-size: 1em;
-  transition: background 0.15s ease;
-}
-.social-row a:hover { background: #52606d; }
-
-.sidebar-contact {
-  text-align: left;
-  border-top: 1px solid #3e4c59;
-  padding-top: 20px;
-  font-size: 0.88em;
-}
-.sidebar-contact div { margin-bottom: 10px; color: #cbd2d9; }
-.sidebar-contact span { color: #7b8794; display: block; font-size: 0.78em; text-transform: uppercase; letter-spacing: 0.4px; }
-
-/* ---- Main content ---- */
-.resume-main {
-  flex: 3 1 500px;
+.interest-card {
+  border: 1px solid #e1e4e8;
+  border-radius: 10px;
+  padding: 18px;
   background: #fff;
-  padding: 45px 40px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
-.resume-section { margin-bottom: 38px; }
-.resume-section:last-child { margin-bottom: 0; }
-.resume-section-title {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  font-size: 1.15em;
-  font-weight: 700;
-  color: #1f2933;
-  margin-bottom: 18px;
-  padding-bottom: 8px;
-  border-bottom: 2px solid #e4e7eb;
+.interest-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 18px rgba(0,0,0,0.1);
 }
-.resume-section-title .emoji { font-size: 1.1em; }
+.interest-card .icon { font-size: 1.6em; display: block; margin-bottom: 8px; }
+.interest-card h4 { margin: 0 0 6px 0; font-size: 1.02em; }
+.interest-card p { margin: 0; font-size: 0.87em; color: #555; }
 
-.entry { margin-bottom: 22px; padding-left: 2px; }
-.entry:last-child { margin-bottom: 0; }
-.entry-top { display: flex; justify-content: space-between; flex-wrap: wrap; align-items: baseline; gap: 6px; }
-.entry-title { font-weight: 700; color: #1f2933; }
-.entry-org { color: #52606d; font-size: 0.92em; }
-.entry-date {
+.timeline {
+  border-left: 3px solid #4a6572;
+  margin: 20px 0 35px 15px;
+  padding-left: 25px;
+}
+.timeline-item { position: relative; margin-bottom: 20px; }
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -32px;
+  top: 4px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #4a6572;
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 2px #4a6572;
+}
+.timeline-item .date {
   font-size: 0.75em;
-  font-weight: 600;
-  color: #fff;
-  background: #52606d;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #4a6572;
+  letter-spacing: 0.5px;
+}
+.timeline-item p { margin: 3px 0 0 0; }
+
+.edu-list { list-style: none; padding: 0; margin: 20px 0 35px 0; }
+.edu-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  border-bottom: 1px solid #eee;
+  padding: 12px 4px;
+}
+.edu-item:last-child { border-bottom: none; }
+.edu-item .degree { font-weight: 600; }
+.edu-item .school { color: #666; font-size: 0.9em; }
+.edu-item .year {
+  font-size: 0.8em;
+  background: #eef2f5;
   padding: 3px 10px;
   border-radius: 12px;
   white-space: nowrap;
 }
-.entry p { margin: 6px 0 0 0; font-size: 0.92em; color: #444; }
 
-.skills-row { display: flex; flex-wrap: wrap; gap: 8px; }
-.skill-pill {
-  background: #e4e7eb;
-  color: #1f2933;
-  font-size: 0.82em;
-  font-weight: 600;
-  padding: 6px 14px;
+.contact-row { display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0 10px 0; }
+.contact-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #2c3e50;
+  color: #fff !important;
+  padding: 8px 16px;
   border-radius: 20px;
+  font-size: 0.85em;
+  text-decoration: none !important;
 }
+.contact-pill:hover { background: #4a6572; }
 
-@media (max-width: 640px) {
-  .resume-sidebar { text-align: center; }
-  .sidebar-contact { text-align: center; }
+.section-divider {
+  border: none;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #ccc, transparent);
+  margin: 40px 0;
 }
 </style>
 
-<div class="resume-wrap" markdown="0">
-
-  <!-- Sidebar -->
-  <div class="resume-sidebar">
-    <div class="resume-photo">
-      <!-- Replace with: <img src="/images/profile.jpg" alt="Your Name"> -->
-      🧑‍🔬
-    </div>
-    <h2>[Your Name]</h2>
-    <div class="role">[Your Title, e.g. PhD Candidate]</div>
-
-    <div class="social-row">
-      <a href="mailto:your.email@example.com" title="Email">✉️</a>
-      <a href="https://github.com/yourusername" title="GitHub">💻</a>
-      <a href="https://scholar.google.com/" title="Google Scholar">🎓</a>
-      <a href="https://linkedin.com/in/yourusername" title="LinkedIn">🔗</a>
-      <a href="https://twitter.com/yourusername" title="Twitter">🐦</a>
-    </div>
-
-    <div class="sidebar-contact">
-      <div><span>Location</span>[City, Country]</div>
-      <div><span>Institution</span>[University/Lab]</div>
-      <div><span>Email</span>your.email@example.com</div>
-    </div>
-  </div>
-
-  <!-- Main content -->
-  <div class="resume-main">
-
-    <div class="resume-section">
-      <div class="resume-section-title"><span class="emoji">👋</span> About Me</div>
-      <p>I am a <strong>[your role]</strong> in <strong>[Department/Program]</strong> at <strong>[University]</strong>, advised by <strong>[Advisor Name]</strong>. My research focuses on <strong>[1–2 sentence description of your research area]</strong>. I'm broadly interested in [interest 1], [interest 2], and [interest 3].</p>
-    </div>
-
-    <div class="resume-section">
-      <div class="resume-section-title"><span class="emoji">💼</span> Experience</div>
-
-      <div class="entry">
-        <div class="entry-top">
-          <span class="entry-title">[Role Title]</span>
-          <span class="entry-date">[Year – Present]</span>
-        </div>
-        <div class="entry-org">[Institution / Company]</div>
-        <p>One or two sentences on what you do in this role and key contributions.</p>
-      </div>
-
-      <div class="entry">
-        <div class="entry-top">
-          <span class="entry-title">[Role Title]</span>
-          <span class="entry-date">[Year – Year]</span>
-        </div>
-        <div class="entry-org">[Institution / Company]</div>
-        <p>One or two sentences on what you did in this role.</p>
-      </div>
-    </div>
-
-    <div class="resume-section">
-      <div class="resume-section-title"><span class="emoji">🎓</span> Education</div>
-
-      <div class="entry">
-        <div class="entry-top">
-          <span class="entry-title">Ph.D. in [Field]</span>
-          <span class="entry-date">[Year – Present]</span>
-        </div>
-        <div class="entry-org">[University]</div>
-        <p>Brief note on thesis focus or advisor.</p>
-      </div>
-
-      <div class="entry">
-        <div class="entry-top">
-          <span class="entry-title">M.S. in [Field]</span>
-          <span class="entry-date">[Year]</span>
-        </div>
-        <div class="entry-org">[University]</div>
-      </div>
-
-      <div class="entry">
-        <div class="entry-top">
-          <span class="entry-title">B.S. in [Field]</span>
-          <span class="entry-date">[Year]</span>
-        </div>
-        <div class="entry-org">[University]</div>
-      </div>
-    </div>
-
-    <div class="resume-section">
-      <div class="resume-section-title"><span class="emoji">🛠️</span> Skills</div>
-      <div class="skills-row">
-        <span class="skill-pill">Python</span>
-        <span class="skill-pill">PyTorch</span>
-        <span class="skill-pill">[Skill]</span>
-        <span class="skill-pill">[Skill]</span>
-        <span class="skill-pill">[Skill]</span>
-      </div>
-    </div>
-
+<div class="about-hero" markdown="0">
+  <h2>Hi, I'm [Your Name] 👋</h2>
+  <p>I am a <strong>[your role, e.g. PhD Student]</strong> in <strong>[Department/Program]</strong> at <strong>[University/Institution]</strong>, advised by <strong>[Advisor Name]</strong>. My research focuses on <strong>[1-sentence description of your research area]</strong>.</p>
+  <div class="badge-row">
+    <span class="badge">📍 [City, Country]</span>
+    <span class="badge">🎓 [Field of Study]</span>
+    <span class="badge">✉️ [email]</span>
   </div>
 </div>
 
+<div class="quickfacts" markdown="0">
+  <div class="quickfact"><span class="num">[X]</span><span class="label">Publications</span></div>
+  <div class="quickfact"><span class="num">[X]</span><span class="label">Years Researching</span></div>
+  <div class="quickfact"><span class="num">[X]</span><span class="label">Talks Given</span></div>
+  <div class="quickfact"><span class="num">[X]</span><span class="label">Collaborators</span></div>
+</div>
+
+Before joining [Institution], I completed my [degree] in [field] at [Previous Institution], where I worked with [Name] on [topic]. My current work explores [current project, 1-2 sentences with a bit more technical detail than the intro above].
+
+## Research Interests
+
+<div class="interest-grid" markdown="0">
+  <div class="interest-card">
+    <span class="icon">🧠</span>
+    <h4>[Interest 1]</h4>
+    <p>Brief one-line description of what draws you to this area.</p>
+  </div>
+  <div class="interest-card">
+    <span class="icon">📊</span>
+    <h4>[Interest 2]</h4>
+    <p>Brief one-line description.</p>
+  </div>
+  <div class="interest-card">
+    <span class="icon">🌐</span>
+    <h4>[Interest 3]</h4>
+    <p>Brief one-line description.</p>
+  </div>
+</div>
+
+<hr class="section-divider">
+
 ## News
 
-* **[Month Year]**: [Paper/award/talk] accepted at [venue]!
-* **[Month Year]**: Started as a [role] at [institution].
-* **[Month Year]**: Gave a talk on [topic] at [event].
+<div class="timeline" markdown="0">
+  <div class="timeline-item">
+    <span class="date">[Month Year]</span>
+    <p>🎉 [Paper title] accepted at <strong>[Venue]</strong>!</p>
+  </div>
+  <div class="timeline-item">
+    <span class="date">[Month Year]</span>
+    <p>🚀 Started as a [role] at [Institution].</p>
+  </div>
+  <div class="timeline-item">
+    <span class="date">[Month Year]</span>
+    <p>🎤 Gave a talk on [topic] at [Event].</p>
+  </div>
+  <div class="timeline-item">
+    <span class="date">[Month Year]</span>
+    <p>🏆 Received [Award Name].</p>
+  </div>
+</div>
+
+<hr class="section-divider">
+
+## Education
+
+<ul class="edu-list" markdown="0">
+  <li class="edu-item">
+    <div><span class="degree">Ph.D. in [Field]</span><br><span class="school">[University]</span></div>
+    <span class="year">[Year–Present]</span>
+  </li>
+  <li class="edu-item">
+    <div><span class="degree">M.S. in [Field]</span><br><span class="school">[University]</span></div>
+    <span class="year">[Year]</span>
+  </li>
+  <li class="edu-item">
+    <div><span class="degree">B.S. in [Field]</span><br><span class="school">[University]</span></div>
+    <span class="year">[Year]</span>
+  </li>
+</ul>
+
+<hr class="section-divider">
+
+## Get in Touch
+
+I'm always happy to chat about research, collaborations, or opportunities. Reach out below:
+
+<div class="contact-row" markdown="0">
+  <a class="contact-pill" href="mailto:your.email@example.com">✉️ Email</a>
+  <a class="contact-pill" href="https://scholar.google.com/">🎓 Google Scholar</a>
+  <a class="contact-pill" href="https://github.com/yourusername">💻 GitHub</a>
+  <a class="contact-pill" href="https://linkedin.com/in/yourusername">🔗 LinkedIn</a>
+  <a class="contact-pill" href="https://twitter.com/yourusername">🐦 Twitter</a>
+</div>
