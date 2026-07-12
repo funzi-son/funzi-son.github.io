@@ -169,7 +169,7 @@ author_profile: true
     <div class="service-card-header">
       <span class="emoji">🧑‍⚖️</span>
       <h3>Organizing Roles</h3>
-      <span class="count">[X]</span>
+      <!--<span class="count">[X]</span>-->
     </div>
     <ul class="service-list">
       <li><span class="venue">Special Session Organiser [Reliable, Robust and Secure Machine Learning Algorithms]</span><span class="years">2026</span></li>

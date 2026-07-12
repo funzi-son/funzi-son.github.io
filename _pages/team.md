@@ -215,6 +215,16 @@ author_profile: true
     </div>
   </div>
 
+  <div class="member-card">
+    <div class="member-photo">👤</div>
+    <div class="member-name">Dong Ming Zheng</div>
+    <div class="member-role">PhD Student, Physics-informed AI</div>
+    <div class="member-links">
+      <a href="s226256281@deakin.edu.au" title="Email">✉️</a>
+      <a href="https://scholar.google.com/citations?user=ZCHQWw0AAAAJ" title="Google Scholar">🎓</a>
+      <!-- <a href="#" title="GitHub">💻</a> -->
+    </div>
+  </div>
 
   <div class="member-card">
     <div class="member-photo">👤</div>
@@ -278,8 +288,8 @@ author_profile: true
 
 <div class="alumni-list" markdown="0">
   <span class="alumni-pill">Jamal Maktoubian <span class="now">— now at Menzies Institute for Medical Research</span></span>
-  <span class="alumni-pill">Rami Mohawesh<span class="now">— now at xxx</span></span>
-  <span class="alumni-pill">Yuchen Wei <span class="now">— now at xxx</span></span>
+  <span class="alumni-pill">Rami Mohawesh<span class="now">— now at Yarmouk University</span></span>
+  <span class="alumni-pill">Yuchen Wei <span class="now">— now at Rising Sun Pictures</span></span>
   <span class="alumni-pill">Taige Zhao</span>
   <span class="alumni-pill">Jianping Yao</span> 
   <span class="alumni-pill">Guan Huang </span>
