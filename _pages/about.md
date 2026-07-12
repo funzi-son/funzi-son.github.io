@@ -9,10 +9,6 @@ redirect_from:
 ---
 
 <style>
-.page__content {
-  background-color: #c9d0d7 !important;
-}
-
 .about-hero {
   background: linear-gradient(135deg, #2c3e50 0%, #4a6572 100%);
   color: #fff;
