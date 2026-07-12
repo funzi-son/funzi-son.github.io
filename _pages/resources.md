@@ -234,33 +234,16 @@ author_profile: true
     <tr>
       <th>Dataset</th>
       <th>Description</th>
-      <th>Size</th>
-      <th>License</th>
       <th>Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>[Dataset Name]</strong></td>
-      <td>One-line description of contents and intended use.</td>
-      <td>[e.g. 50GB / 1.2M rows]</td>
-      <td>CC-BY 4.0</td>
-      <td><a href="#">Download ↓</a></td>
+      <td><strong></strong></td>
+      <td>CT Data Preparation for Laryngeal CT Imaging</td>
+      <td><a href="https://github.com/funzi-son/LaryngealCT">Download ↓</a></td>
     </tr>
-    <tr>
-      <td><strong>[Dataset Name]</strong></td>
-      <td>One-line description of contents and intended use.</td>
-      <td>[size]</td>
-      <td>CC-BY-NC 4.0</td>
-      <td><a href="#">Download ↓</a></td>
-    </tr>
-    <tr>
-      <td><strong>[Dataset Name]</strong></td>
-      <td>One-line description of contents and intended use.</td>
-      <td>[size]</td>
-      <td>MIT</td>
-      <td><a href="#">Download ↓</a></td>
-    </tr>
+  
   </tbody>
 </table>
 
