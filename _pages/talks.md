@@ -234,13 +234,13 @@ author_profile: true
 
 <div class="talk-entry" markdown="0">
   <div class="talk-when">
-    <!--<div class="talk-month">[Mon]</div>
-    <div class="talk-day">[DD]</div> -->
+    <div class="talk-month">Dec</div>
+    <!--<div class="talk-day">[DD]</div> -->
     <div class="talk-loc">📍 Tokyo, Japan</div>
   </div>
   <div class="talk-body">
     <span class="talk-type-badge type-invited">Invited Talk</span>
-    <div class="talk-title">Neurosymbolic AI: A De-composition Perspective</div>
+    <div class="talk-title">Neurosymbolic AI: A Decomposition Perspective</div>
     <div class="talk-venue">Sony AI</div>
     <!--<div class="talk-abstract">One or two sentences summarizing what the talk covered.</div>-->
     <div class="talk-footer">
@@ -254,8 +254,8 @@ author_profile: true
 
 <div class="talk-entry" markdown="0">
   <div class="talk-when">
-    <!--<div class="talk-month">[Mon]</div>
-    <div class="talk-day">[DD]</div>-->
+    <div class="talk-month">Dec</div>
+    <!--<div class="talk-day">[DD]</div>-->
     <div class="talk-loc">📍 Ishikawa, Japan</div>
   </div>
   <div class="talk-body">
@@ -276,8 +276,8 @@ author_profile: true
 
 <div class="talk-entry" markdown="0">
   <div class="talk-when">
-    <!--<div class="talk-month">[Mon]</div>
-    <div class="talk-day">[DD]</div>-->
+    <div class="talk-month">Nov</div>
+    <!--<div class="talk-day">[DD]</div>-->
     <div class="talk-loc">📍 Ho Chi Minh City, Vietnam</div>
   </div>
   <div class="talk-body">
@@ -297,8 +297,8 @@ author_profile: true
 
 <div class="talk-entry" markdown="0">
   <div class="talk-when">
-    <!--<div class="talk-month">[Mon]</div>
-    <div class="talk-day">[DD]</div>-->
+    div class="talk-month">Nov</div>
+    <!--<<div class="talk-day">[DD]</div>-->
     <div class="talk-loc">📍 Hanoi, Vietnam</div>
   </div>
   <div class="talk-body">
@@ -318,8 +318,8 @@ author_profile: true
 
 <div class="talk-entry" markdown="0">
   <div class="talk-when">
-    <!--<div class="talk-month">[Mon]</div>
-    <div class="talk-day">[DD]</div>-->
+    <div class="talk-month">Feb</div>
+    <!--<div class="talk-day">[DD]</div>-->
     <div class="talk-loc">📍 Melbourne, Australia</div>
   </div>
   <div class="talk-body">
