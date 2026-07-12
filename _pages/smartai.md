@@ -1,6 +1,6 @@
 ---
 title: "[Theme Name]"
-permalink: /research/theme-name-v2/
+permalink: /smartai/
 author_profile: true
 ---
 
