@@ -304,5 +304,5 @@ author_profile: true
 <div class="join-cta" markdown="0">
   <h3>Join Our Team</h3>
   <p>We're always looking for motivated students and collaborators. See our <a href="/" style="color:#fff;text-decoration:underline;">About page</a> for current openings and PhD application requirements.</p>
-  <a href="mailto:your.email@example.com">Get in Touch →</a>
+  <a href="mailto:son.tran@deakin.edu.au">Get in Touch →</a>
 </div>

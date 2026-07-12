@@ -296,8 +296,8 @@ author_profile: true
 
 <div class="talk-entry" markdown="0">
   <div class="talk-when">
-    <div class="talk-month">[Mon]</div>
-    <div class="talk-day">[DD]</div>
+    <!--<div class="talk-month">[Mon]</div>
+    <div class="talk-day">[DD]</div>-->
     <div class="talk-loc">📍 Hanoi, Vietnam</div>
   </div>
   <div class="talk-body">
@@ -314,6 +314,67 @@ author_profile: true
   </div>
 </div>
 
+<div class="talk-entry" markdown="0">
+  <div class="talk-when">
+    <!--<div class="talk-month">[Mon]</div>
+    <div class="talk-day">[DD]</div> -->
+    <div class="talk-loc">📍 Hanoi, Vietnam</div>
+  </div>
+  <div class="talk-body">
+    <span class="talk-type-badge type-invited">Invited Talk</span>
+    <div class="talk-title">Ede AI: Bring AI to the real world</div>
+    <div class="talk-venue">FPT University</div>
+    <!--<div class="talk-abstract">Brief note on the panel's theme and your role/contribution in the discussion.</div>-->
+    <div class="talk-footer">
+      <!--<div class="talk-links">
+        <a href="">Link</a>
+      </div>-->
+      <span class="talk-format">In-person</span>
+    </div>
+  </div>
+</div>
+
+<div class="year-heading">2022</div>
+<div class="talk-entry" markdown="0">
+  <div class="talk-when">
+    <!--<div class="talk-month">[Mon]</div>
+    <div class="talk-day">[DD]</div>-->
+    <div class="talk-loc">📍 Virtual</div>
+  </div>
+  <div class="talk-body">
+    <span class="talk-type-badge type-invited">Invited Talk</span>
+    <div class="talk-title">Towards Reliable and Robust Deep Learning with Neurosymbolic Computing</div>
+    <div class="talk-venue">Reliable, Robust, and Secure ML special session</div>
+    <!--<div class="talk-abstract">Brief note on the panel's theme and your role/contribution in the discussion.</div>-->
+    <div class="talk-footer">
+      <!--<div class="talk-links">
+        <a href="">Link</a>
+      </div>-->
+      <span class="talk-format">Virtual</span>
+    </div>
+  </div>
+</div>
+
+<div class="year-heading">2021</div>
+<div class="talk-entry" markdown="0">
+  <div class="talk-when">
+    <!--<div class="talk-month">[Mon]</div>
+    <div class="talk-day">[DD]</div>-->
+    <div class="talk-loc">📍 Hobart, Australia</div>
+  </div>
+  <div class="talk-body">
+    <span class="talk-type-badge type-invited">Invited Talk</span>
+    <div class="talk-title">Artificial Neural Networks and Applications to Research</div>
+    <div class="talk-venue">AAPP/IMAS machine learning workshop</div>
+    <!--<div class="talk-abstract">Brief note on the panel's theme and your role/contribution in the discussion.</div>-->
+    <div class="talk-footer">
+      <!--<div class="talk-links">
+        <a href="">Link</a>
+      </div>-->
+      <span class="talk-format">In-Person</span>
+    </div>
+  </div>
+</div>
 <hr class="section-divider">
 
 <p style="text-align:center; color:#888; font-size:0.9em;">
