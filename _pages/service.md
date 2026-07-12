@@ -160,7 +160,7 @@ author_profile: true
 </style>
 
 
-<div class="team-hero" markdown="0">
+<div class="service-hero" markdown="0">
   <h2>Service</h2>
   <!--<p>Meet the researchers, engineers, and students behind our work in AI.</p>-->
 </div>
