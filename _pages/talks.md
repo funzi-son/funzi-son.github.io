@@ -283,7 +283,7 @@ author_profile: true
   <div class="talk-body">
     <span class="talk-type-badge type-invited">Invited Talk</span>
     <div class="talk-title">Robust Artificial Intelligence</div>
-    <div class="talk-venue"><strong>Security Research Group</strong>, The University of Melbourne</div>
+    <div class="talk-venue">Security Research Group, The University of Melbourne</div>
     <!-- <div class="talk-abstract">One or two sentences summarizing what the talk covered.</div> -->
     <div class="talk-footer">
       <!--<div class="talk-links">
