@@ -10,7 +10,7 @@ redirect_from:
 
 <style>
 .page__content {
-  background-color: #1668ba;
+  background-color: #1668ba !important;;
 }
 
 .about-hero {
