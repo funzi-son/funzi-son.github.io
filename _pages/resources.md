@@ -222,7 +222,7 @@ author_profile: true
       <span class="res-tag">GPL-3.0</span>
     </div>
     <div class="btn-row">
-      <a class="res-btn btn-secondary" href="https://github.com/funzi-son/plant_pathology_dl">💻 GitHub</a>
+      <a class="res-btn btn-secondary" href="https://github.com/funzi-son/AI4Plant">💻 GitHub</a>
     </div>
   </div>
 <hr class="section-divider">
