@@ -15,8 +15,8 @@ main:
   - title: "Team"
     url: /team/ 
 
-  - title: "Activities"
-    url: /activities/
+#  - title: "Activities"
+#    url: /activities/
 
 #  - title: "Honours"
 #    url: /honours/
