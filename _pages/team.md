@@ -251,7 +251,7 @@ author_profile: true
   <div class="member-card">
     <div class="member-photo">👤</div>
     <div class="member-name">Minh Vu</div>
-    <div class="member-role">Honours & RA, ML for Dynamic Modelling</div>
+    <div class="member-role">Honours & RA, Physics-AI</div>
     <div class="member-links">
       <a href="mailto:ngocminh057.csp@gmail.com" title="Email">✉️</a>
       <a href="https://scholar.google.com/citations?user=8MVxPoAAAAAJ&hl=en" title="Google Scholar">🎓</a>
