@@ -1,5 +1,5 @@
 ---
-title: "A"
+title: ""
 permalink: /talks/
 author_profile: true
 ---
@@ -165,6 +165,7 @@ author_profile: true
     </div>
   </div>
 </div>
+
 <div class="talk-entry" markdown="0">
   <div class="talk-when">
     <div class="talk-month">Jan</div>
@@ -174,7 +175,7 @@ author_profile: true
   <div class="talk-body">
     <span class="talk-type-badge type-seminar"> Seminar</span>
     <div class="talk-title">AI for Data Analytics</div>
-    <div class="talk-venue"><div>UEB-Vietnam National University Hanoi</div>
+    <div class="talk-venue">UEB-Vietnam National University Hanoi</div>
     <!--<div class="talk-abstract">One or two sentences summarizing what the talk covered — key ideas, results, or the story you told the audience.</div>-->
     <div class="talk-footer">
       <!--<div class="talk-links">
@@ -187,6 +188,7 @@ author_profile: true
     </div>
   </div>
 </div>
+
 
 <div class="year-heading">2025</div>
 
@@ -381,6 +383,7 @@ author_profile: true
 </div>
 
 <div class="year-heading">2022</div>
+
 <div class="talk-entry" markdown="0">
   <div class="talk-when">
     <!--<div class="talk-month">[Mon]</div>
@@ -402,6 +405,7 @@ author_profile: true
 </div>
 
 <div class="year-heading">2021</div>
+
 <div class="talk-entry" markdown="0">
   <div class="talk-when">
     <!--<div class="talk-month">[Mon]</div>
