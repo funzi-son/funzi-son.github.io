@@ -423,6 +423,8 @@ author_profile: true
 </div>
 <hr class="section-divider">
 
+<!--
 <p style="text-align:center; color:#888; font-size:0.9em;">
 For a full record of publications and academic service, see <a href="/publications/">Publications</a> and <a href="/service/">Talks & Service</a>.
 </p>
+-->
