@@ -256,8 +256,8 @@ author_profile: true
     <h4>🎮 KITE</h4>
     <p>Try [tool/model] directly in your browser — no installation required.</p>
   </div>
-  <a class="res-btn btn-primary" href="https://drive.google.com/file/d/1ShDXyboIpwb3SDlMIHlQRDonDCRPtFJK/view" target="_blank" rel="noopener noreferrer>Video</a>
-   <a class="res-btn btn-primary" href="https://kitegru.streamlit.app/" target="_blank" rel="noopener noreferrer>Demo</a>
+  <a class="res-btn btn-primary" href="https://drive.google.com/file/d/1ShDXyboIpwb3SDlMIHlQRDonDCRPtFJK/view" target="_blank" rel="noopener noreferrer">Video</a>
+   <a class="res-btn btn-primary" href="https://kitegru.streamlit.app/" target="_blank" rel="noopener noreferrer">Demo</a>
 </div>
 
 <hr class="section-divider">
