@@ -234,20 +234,20 @@ author_profile: true
 
 <div class="talk-entry" markdown="0">
   <div class="talk-when">
-    <div class="talk-month">[Mon]</div>
-    <div class="talk-day">[DD]</div>
-    <div class="talk-loc">📍 [City, Country] (Virtual)</div>
+    <!--<div class="talk-month">[Mon]</div>
+    <div class="talk-day">[DD]</div> -->
+    <div class="talk-loc">📍 Tokyo, Japan</div>
   </div>
   <div class="talk-body">
-    <span class="talk-type-badge type-seminar">Seminar</span>
-    <div class="talk-title">[Talk Title]</div>
-    <div class="talk-venue"><strong>[Department Seminar Series]</strong>, [University Name]</div>
-    <div class="talk-abstract">One or two sentences summarizing what the talk covered.</div>
+    <span class="talk-type-badge type-invited">Invited Talk</span>
+    <div class="talk-title">Neurosymbolic AI: A De-composition Perspective</div>
+    <div class="talk-venue"><strong>Sony AI</div>
+    <!--<div class="talk-abstract">One or two sentences summarizing what the talk covered.</div>-->
     <div class="talk-footer">
-      <div class="talk-links">
+      <!--<div class="talk-links">
         <a href="#">🎥 Video</a>
-      </div>
-      <span class="talk-format">Virtual</span>
+      </div>-->
+      <span class="talk-format">In-Person</span>
     </div>
   </div>
 </div>
@@ -276,9 +276,9 @@ author_profile: true
 
 <div class="talk-entry" markdown="0">
   <div class="talk-when">
-    <div class="talk-month">[Mon]</div>
-    <!-- <div class="talk-day">[DD]</div> -->
-    <div class="talk-loc">📍 Melbourne, Australia (Virtual)</div>
+    <!-- <div class="talk-month">[Mon]</div>
+    <div class="talk-day">[DD]</div> -->
+    <div class="talk-loc">📍 Melbourne, Australia</div>
   </div>
   <div class="talk-body">
     <span class="talk-type-badge type-invited">Invited Talk</span>
@@ -286,9 +286,9 @@ author_profile: true
     <div class="talk-venue"><strong>Security Research Group</strong>, The University of Melbourne</div>
     <!-- <div class="talk-abstract">One or two sentences summarizing what the talk covered.</div> -->
     <div class="talk-footer">
-      <div class="talk-links">
+      <!--<div class="talk-links">
         <a href="#">🎥 Video</a>
-      </div>
+      </div>-->
       <span class="talk-format">Virtual</span>
     </div>
   </div>
@@ -339,7 +339,7 @@ author_profile: true
   <div class="talk-when">
     <!--<div class="talk-month">[Mon]</div>
     <div class="talk-day">[DD]</div>-->
-    <div class="talk-loc">📍 Virtual</div>
+    <div class="talk-loc">📍 Indore, India</div>
   </div>
   <div class="talk-body">
     <span class="talk-type-badge type-invited">Invited Talk</span>
