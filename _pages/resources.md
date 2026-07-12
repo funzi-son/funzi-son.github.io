@@ -185,8 +185,8 @@ author_profile: true
     </div>
     <div class="btn-row">
       <a class="res-btn btn-primary" href="#">💻 GitHub</a>
-      <a class="res-btn btn-secondary" href="#">📄 Docs</a>
-      <a class="res-btn btn-secondary" href="#">📝 Paper</a>
+      <!-- <a class="res-btn btn-secondary" href="#">📄 Docs</a> -->
+      <!--<a class="res-btn btn-secondary" href="#">📝 Paper</a>-->
     </div>
   </div>
 
@@ -203,12 +203,14 @@ author_profile: true
     </div>
     <div class="btn-row">
       <a class="res-btn btn-primary" href="#">💻 GitHub</a>
-      <a class="res-btn btn-secondary" href="#">📄 Docs</a>
-      <a class="res-btn btn-secondary" href="#">📝 Paper</a>
+      <!-- <a class="res-btn btn-secondary" href="#">📄 Docs</a> -->
+      <!-- <a class="res-btn btn-secondary" href="#">📝 Paper</a> -->
     </div>
   </div>
 
-  <div class="res-card">
+</div>
+
+<div class="res-card">
     <div class="res-card-top">
       <span class="icon">🔧</span>
       <span class="res-status status-archived">Archived</span>
@@ -223,9 +225,6 @@ author_profile: true
       <a class="res-btn btn-secondary" href="#">💻 GitHub</a>
     </div>
   </div>
-
-</div>
-
 <hr class="section-divider">
 
 ## Datasets
