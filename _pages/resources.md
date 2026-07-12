@@ -216,9 +216,9 @@ author_profile: true
       <span class="res-status status-archived">Paper Code</span>
     </div>
     <h3>AI4Plant</h3>
-    <p class="desc">Short description. Note if this has been superseded by a newer tool, and link to it.</p>
+    <p class="desc">Multi-output Deep Learning methods for plant pathology</p>
     <div class="tag-row">
-      <span class="res-tag">R</span>
+      <span class="res-tag">Python</span>
       <span class="res-tag">GPL-3.0</span>
     </div>
     <div class="btn-row">
