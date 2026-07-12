@@ -194,7 +194,7 @@ author_profile: true
   </div>
 
   <div class="member-card">
-    <div class="member-photo">👤</div>
+    <div class="member-photo"><img src="/images/members/nivea.jpeg" alt="Nivea"></div>
     <div class="member-name">Nivea Roy</div>
     <div class="member-role">PhD Student, Medical Imaging</div>
     <div class="member-links">
@@ -205,7 +205,7 @@ author_profile: true
   </div>
 
   <div class="member-card">
-    <div class="member-photo">👤</div>
+    <div class="member-photo"><img src="/images/members/bahman.jpg" alt="Bahman"></div>
     <div class="member-name">Bahman Jafari Tabaghsar</div>
     <div class="member-role">PhD Student, XAI</div>
     <div class="member-links">
@@ -216,7 +216,7 @@ author_profile: true
   </div>
 
   <div class="member-card">
-    <div class="member-photo">👤</div>
+    <div class="member-photo"><img src="/images/members/dongming.jpg" alt="Dongming"></div>
     <div class="member-name">Dong Ming Zheng</div>
     <div class="member-role">PhD Student, Physics-informed AI</div>
     <div class="member-links">
@@ -227,7 +227,7 @@ author_profile: true
   </div>
 
   <div class="member-card">
-    <div class="member-photo">👤</div>
+    <div class="member-photo"><img src="/images/members/nam.png" alt="Nam N"></div>
     <div class="member-name">Nam Nguyen</div>
     <div class="member-role">PhD Student, Quantum AI/Op</div>
     <div class="member-links">
@@ -238,7 +238,7 @@ author_profile: true
   </div>
 
   <div class="member-card">
-    <div class="member-photo">👤</div>
+    <div class="member-photo"><img src="/images/members/namluu.jpg" alt="Nam L"></div>
     <div class="member-name">Nam Luu</div>
     <div class="member-role">PhD Student, Trajectory Forecast</div>
     <div class="member-links">
@@ -249,7 +249,7 @@ author_profile: true
   </div>
 
   <div class="member-card">
-    <div class="member-photo">👤</div>
+    <div class="member-photo"><img src="/images/members/minh.jpeg" alt="Minh"></div>
     <div class="member-name">Minh Vu</div>
     <div class="member-role">Honours & RA, Physics-AI</div>
     <div class="member-links">
@@ -260,7 +260,7 @@ author_profile: true
   </div>
 
 <div class="member-card">
-    <div class="member-photo">👤</div>
+    <div class="member-photo"><img src="/images/members/cindy.jpg" alt="Cindy"></div>
     <div class="member-name">Xinyi Wang</div>
     <div class="member-role">PhD Student, Early Dementia Detection</div>
     <div class="member-links">
