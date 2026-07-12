@@ -255,7 +255,7 @@ author_profile: true
     <div class="member-links">
       <a href="mailto:ngocminh057.csp@gmail.com" title="Email">✉️</a>
       <a href="https://scholar.google.com/citations?user=8MVxPoAAAAAJ&hl=en" title="Google Scholar">🎓</a>
-      <a href="https://github.com/MaveVu" title="GitHub">GitHub</a>
+      <a href="https://github.com/MaveVu" title="GitHub">💻</a>
     </div>
   </div>
 
