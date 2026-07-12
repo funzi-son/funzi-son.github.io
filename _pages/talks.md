@@ -1,5 +1,5 @@
 ---
-title: ""
+#title: ""
 permalink: /talks/
 author_profile: true
 ---
@@ -125,7 +125,7 @@ author_profile: true
 </style>
 
 <div class="talks-hero" markdown="0">
-  <h2>Invited Talks</h2>
+  <h2>Talks</h2>
 </div>
 
 <!--
