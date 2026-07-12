@@ -297,7 +297,7 @@ author_profile: true
 
 <div class="talk-entry" markdown="0">
   <div class="talk-when">
-    div class="talk-month">Nov</div>
+    <div class="talk-month">Nov</div>
     <!--<<div class="talk-day">[DD]</div>-->
     <div class="talk-loc">📍 Hanoi, Vietnam</div>
   </div>
