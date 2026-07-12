@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "A"
 permalink: /talks/
 author_profile: true
 ---
