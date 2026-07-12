@@ -160,7 +160,7 @@ author_profile: true
   <div class="theme-card">
     <span class="icon">🚀</span>
     <h3>Theme 4: <a href="/app/">AI Applications</a></h3>
-    <p>Applying advances in AI to tackle practical challenges and advance ... science, healthcare, economy, and autonomous systems.</p>
+    <p>Applying advances in AI to tackle practical challenges  and  drive progress across Science, Agriculture, Healthcare, and Autonomous Systems.</p>
     <!--<ul>
       <li><a href="#">Author et al., Venue Year</a></li>
     </ul>
