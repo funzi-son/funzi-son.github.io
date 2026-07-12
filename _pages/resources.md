@@ -212,17 +212,17 @@ author_profile: true
 
 <div class="res-card">
     <div class="res-card-top">
-      <span class="icon">🔧</span>
-      <span class="res-status status-archived">Archived</span>
+      <span class="icon">📄</span>
+      <span class="res-status status-archived">Paper Code</span>
     </div>
-    <h3>[Project Name]</h3>
+    <h3>AI4Plant</h3>
     <p class="desc">Short description. Note if this has been superseded by a newer tool, and link to it.</p>
     <div class="tag-row">
       <span class="res-tag">R</span>
       <span class="res-tag">GPL-3.0</span>
     </div>
     <div class="btn-row">
-      <a class="res-btn btn-secondary" href="#">💻 GitHub</a>
+      <a class="res-btn btn-secondary" href="https://github.com/funzi-son/plant_pathology_dl">💻 GitHub</a>
     </div>
   </div>
 <hr class="section-divider">
