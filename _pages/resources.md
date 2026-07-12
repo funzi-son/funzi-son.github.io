@@ -215,10 +215,8 @@ author_profile: true
       <span class="icon">📄</span>
       <span class="res-status status-archived">Paper Code</span>
     </div>
-    <h3>AI4Plant</h3>
-    <div class="btn-row">
-      <a class="res-btn btn-secondary" href="https://github.com/funzi-son/AI4Plant">💻 GitHub</a>
-    </div>
+    <h3>AI4Plant</h3> <a class="res-btn btn-secondary" href="https://github.com/funzi-son/AI4Plant">💻 GitHub</a>
+    
   </div>
 <hr class="section-divider">
 
