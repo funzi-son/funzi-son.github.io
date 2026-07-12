@@ -253,26 +253,10 @@ author_profile: true
 
 <div class="demo-banner" markdown="0">
   <div class="demo-info">
-    <h4>🎮 [Demo Name]</h4>
+    <h4>🎮 KITE</h4>
     <p>Try [tool/model] directly in your browser — no installation required.</p>
   </div>
-  <a class="res-btn btn-primary" href="#">Launch Demo →</a>
-</div>
-
-<div class="demo-banner" markdown="0">
-  <div class="demo-info">
-    <h4>📊 [Demo Name]</h4>
-    <p>Interactive visualization of [dataset/model output].</p>
-  </div>
-  <a class="res-btn btn-primary" href="#">Launch Demo →</a>
-</div>
-
-<div class="demo-banner" markdown="0">
-  <div class="demo-info">
-    <h4>🤖 [Demo Name]</h4>
-    <p>Hosted notebook — run [model/pipeline] on your own data.</p>
-  </div>
-  <a class="res-btn btn-primary" href="#">Open Notebook →</a>
+  <a class="res-btn btn-primary" href="https://drive.google.com/file/d/1ShDXyboIpwb3SDlMIHlQRDonDCRPtFJK/view">Video Demo →</a>
 </div>
 
 <hr class="section-divider">
