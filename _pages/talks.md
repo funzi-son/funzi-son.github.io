@@ -148,6 +148,25 @@ author_profile: true
 
 <div class="talk-entry" markdown="0">
   <div class="talk-when">
+    <div class="talk-month">[Mon]</div>
+    <div class="talk-day">[DD]</div>
+    <div class="talk-loc">📍 Melbourne, Australia</div>
+  </div>
+  <div class="talk-body">
+    <span class="talk-type-badge type-seminar">Seminar</span>
+    <div class="talk-title">Data Mining and Knowledge Discovery Retreat</div>
+    <div class="talk-venue">Deakin University</div>
+    <!--<div class="talk-abstract">One or two sentences summarizing what the talk covered.</div>-->
+    <div class="talk-footer">
+      <!--<div class="talk-links">
+        <a href="#">📑 Slides</a>
+      </div>-->
+      <span class="talk-format">In-Person</span>
+    </div>
+  </div>
+</div>
+<div class="talk-entry" markdown="0">
+  <div class="talk-when">
     <div class="talk-month">Jan</div>
     <!--<div class="talk-day">[DD]</div>-->
     <div class="talk-loc">📍 [Hanoi, Vietnam]</div>
@@ -155,35 +174,16 @@ author_profile: true
   <div class="talk-body">
     <span class="talk-type-badge type-seminar"> Seminar</span>
     <div class="talk-title">AI for Data Analytics</div>
-    <div class="talk-venue"><strong>UEB-Vietnam National University Hanoi</strong> — hosted by UEB</div>
-    <div class="talk-abstract">One or two sentences summarizing what the talk covered — key ideas, results, or the story you told the audience.</div>
+    <div class="talk-venue"><div>UEB-Vietnam National University Hanoi</div>
+    <!--<div class="talk-abstract">One or two sentences summarizing what the talk covered — key ideas, results, or the story you told the audience.</div>-->
     <div class="talk-footer">
-      <div class="talk-links">
+      <!--<div class="talk-links">
         <a href="#">📑 Slides</a>
         <a href="#">🎥 Video</a>
         <a href="#">📄 Related Paper</a>
       </div>
+      -->
       <span class="talk-format">In-person</span>
-    </div>
-  </div>
-</div>
-
-<div class="talk-entry" markdown="0">
-  <div class="talk-when">
-    <div class="talk-month">[Mon]</div>
-    <div class="talk-day">[DD]</div>
-    <div class="talk-loc">📍 [City, Country]</div>
-  </div>
-  <div class="talk-body">
-    <span class="talk-type-badge type-invited">Invited Talk</span>
-    <div class="talk-title">[Talk Title]</div>
-    <div class="talk-venue"><strong>[Workshop/Symposium Name]</strong>, co-located with [Parent Conference]</div>
-    <div class="talk-abstract">One or two sentences summarizing what the talk covered.</div>
-    <div class="talk-footer">
-      <div class="talk-links">
-        <a href="#">📑 Slides</a>
-      </div>
-      <span class="talk-format">Hybrid</span>
     </div>
   </div>
 </div>
@@ -192,43 +192,24 @@ author_profile: true
 
 <div class="talk-entry" markdown="0">
   <div class="talk-when">
-    <div class="talk-month">[Mon]</div>
-    <div class="talk-day">[DD]</div>
-    <div class="talk-loc">📍 [City, Country] (Virtual)</div>
+    <div class="talk-month">Nov</div>
+    <!--<div class="talk-day">[DD]</div>-->
+    <div class="talk-loc">📍 Melbourne, Australia</div>
   </div>
   <div class="talk-body">
-    <span class="talk-type-badge type-seminar">Seminar</span>
-    <div class="talk-title">[Talk Title]</div>
-    <div class="talk-venue"><strong>[Department Seminar Series]</strong>, [University Name]</div>
-    <div class="talk-abstract">One or two sentences summarizing what the talk covered.</div>
+    <span class="talk-type-badge type-panel">Panel</span>
+    <div class="talk-title">AI: From Research to Application</div>
+    <div class="talk-venue">Deakin Machine Intelligence Workshop</div>
+    <!--<div class="talk-abstract">One or two sentences summarizing what the talk covered.</div>-->
     <div class="talk-footer">
-      <div class="talk-links">
+      <!--<div class="talk-links">
         <a href="#">🎥 Video</a>
-      </div>
-      <span class="talk-format">Virtual</span>
+      </div>-->
+      <span class="talk-format">In-Person</span>
     </div>
   </div>
 </div>
 
-<div class="talk-entry" markdown="0">
-  <div class="talk-when">
-    <div class="talk-month">[Mon]</div>
-    <div class="talk-day">[DD]</div>
-    <div class="talk-loc">📍 [City, Country]</div>
-  </div>
-  <div class="talk-body">
-    <span class="talk-type-badge type-panel">Panel</span>
-    <div class="talk-title">[Panel Title / Topic]</div>
-    <div class="talk-venue"><strong>[Conference Name]</strong> — panel discussion</div>
-    <div class="talk-abstract">Brief note on the panel's theme and your role/contribution in the discussion.</div>
-    <div class="talk-footer">
-      <div class="talk-links">
-        <a href="#">🎥 Video</a>
-      </div>
-      <span class="talk-format">In-person</span>
-    </div>
-  </div>
-</div>
 
 <div class="year-heading">2024</div>
 
@@ -298,7 +279,7 @@ author_profile: true
 <div class="talk-entry" markdown="0">
   <div class="talk-when">
     <div class="talk-month">Nov</div>
-    <!--<<div class="talk-day">[DD]</div>-->
+    <!--<div class="talk-day">[DD]</div>-->
     <div class="talk-loc">📍 Hanoi, Vietnam</div>
   </div>
   <div class="talk-body">
