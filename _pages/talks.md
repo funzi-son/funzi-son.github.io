@@ -148,8 +148,8 @@ author_profile: true
 
 <div class="talk-entry" markdown="0">
   <div class="talk-when">
-    <div class="talk-month">[Mon]</div>
-    <div class="talk-day">[DD]</div>
+    <div class="talk-month">June</div>
+    <!--<div class="talk-day">[DD]</div>-->
     <div class="talk-loc">📍 Melbourne, Australia</div>
   </div>
   <div class="talk-body">
