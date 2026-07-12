@@ -183,7 +183,7 @@ author_profile: true
 <div class="member-grid" markdown="0">
 
   <div class="member-card">
-    <div class="member-photo">images/members/spencer.jpeg</div>
+    <div class="member-photo"><img src="/images/members/spencer.jpeg" alt="Spencer"></div>
     <div class="member-name">Spencer Gerontzos</div>
     <div class="member-role">PhD Student, Safe RL</div>
     <div class="member-links">
