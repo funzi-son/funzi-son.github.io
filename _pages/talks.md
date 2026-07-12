@@ -241,7 +241,7 @@ author_profile: true
   <div class="talk-body">
     <span class="talk-type-badge type-invited">Invited Talk</span>
     <div class="talk-title">Neurosymbolic AI: A De-composition Perspective</div>
-    <div class="talk-venue"><strong>Sony AI</div>
+    <div class="talk-venue">Sony AI</div>
     <!--<div class="talk-abstract">One or two sentences summarizing what the talk covered.</div>-->
     <div class="talk-footer">
       <!--<div class="talk-links">
@@ -254,19 +254,84 @@ author_profile: true
 
 <div class="talk-entry" markdown="0">
   <div class="talk-when">
-    <div class="talk-month">[Mon]</div>
-    <div class="talk-day">[DD]</div>
-    <div class="talk-loc">📍 [City, Country]</div>
+    <!--<div class="talk-month">[Mon]</div>
+    <div class="talk-day">[DD]</div>-->
+    <div class="talk-loc">📍 Ishikawa, Japan</div>
   </div>
   <div class="talk-body">
-    <span class="talk-type-badge type-panel">Panel</span>
-    <div class="talk-title">[Panel Title / Topic]</div>
-    <div class="talk-venue"><strong>[Conference Name]</strong> — panel discussion</div>
-    <div class="talk-abstract">Brief note on the panel's theme and your role/contribution in the discussion.</div>
+    <span class="talk-type-badge type-seminar">Seminar</span>
+    <div class="talk-title">NeuroSymbolic AI</div>
+    <div class="talk-venue">Japan Advanced Institute of Science and Technology
+</div>
+    <!--<div class="talk-abstract">Brief note on the panel's theme and your role/contribution in the discussion.</div>-->
     <div class="talk-footer">
-      <div class="talk-links">
+      <!--<div class="talk-links">
         <a href="#">🎥 Video</a>
-      </div>
+      </div>-->
+      <span class="talk-format">In-person</span>
+    </div>
+  </div>
+</div>
+
+
+<div class="talk-entry" markdown="0">
+  <div class="talk-when">
+    <!--<div class="talk-month">[Mon]</div>
+    <div class="talk-day">[DD]</div>-->
+    <div class="talk-loc">📍 Ho Chi Minh City, Vietnam</div>
+  </div>
+  <div class="talk-body">
+    <span class="talk-type-badge type-invited">Invited Talk</span>
+    <div class="talk-title">Compositional NeuroSymbolic AI</div>
+    <div class="talk-venue">University of Science, Vietnam National University - Ho Chi Minh City
+</div>
+    <!--<div class="talk-abstract">Brief note on the panel's theme and your role/contribution in the discussion.</div>-->
+    <div class="talk-footer">
+      <!--<div class="talk-links">
+        <a href="#">🎥 Video</a>
+      </div>-->
+      <span class="talk-format">In-person</span>
+    </div>
+  </div>
+</div>
+
+<div class="talk-entry" markdown="0">
+  <div class="talk-when">
+    <!--<div class="talk-month">[Mon]</div>
+    <div class="talk-day">[DD]</div>-->
+    <div class="talk-loc">📍 Hanoi, Vietnam</div>
+  </div>
+  <div class="talk-body">
+    <span class="talk-type-badge type-invited">Invited Talk</span>
+    <div class="talk-title">Knowledge-Informed Machine Learning</div>
+    <div class="talk-venue">Hanoi University of Science and Technology
+</div>
+    <!--<div class="talk-abstract">Brief note on the panel's theme and your role/contribution in the discussion.</div>-->
+    <div class="talk-footer">
+      <!--<div class="talk-links">
+        <a href="#">🎥 Video</a>
+      </div>-->
+      <span class="talk-format">In-person</span>
+    </div>
+  </div>
+</div>
+
+<div class="talk-entry" markdown="0">
+  <div class="talk-when">
+    <!--<div class="talk-month">[Mon]</div>
+    <div class="talk-day">[DD]</div>-->
+    <div class="talk-loc">📍 Melbourne, Australia</div>
+  </div>
+  <div class="talk-body">
+    <span class="talk-type-badge type-invited">Invited Talk</span>
+    <div class="talk-title">AI for Plant Pathology</div>
+    <div class="talk-venue">Plant Innovation Centre, Department of Agriculture Fisheries and Forestry
+</div>
+    <!--<div class="talk-abstract">Brief note on the panel's theme and your role/contribution in the discussion.</div>-->
+    <div class="talk-footer">
+      <!--<div class="talk-links">
+        <a href="#">🎥 Video</a>
+      </div>-->
       <span class="talk-format">In-person</span>
     </div>
   </div>
