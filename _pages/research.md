@@ -130,39 +130,41 @@ author_profile: true
 
   <div class="theme-card">
     <span class="icon">🧠</span>
-    <h3>Theme 1: NeuroSymbolic/Neural-Symbolic</h3>
+    <h3>Theme 1: <a href="/nesy/">NeuroSymbolic/Neural-Symbolic</a></h3>
     <p>Bridging neural networks and symbolic reasoning to create AI that not only performs well, but can explain and justify its decisions.</p>
-    <ul>
+    <!--<ul>
       <li><a href="#">Confidence Neural Logic</a></li>
       <li><a href="#">Concept Logic Networks</a></li>
-    </ul>
+    </ul>-->
   </div>
 
   <div class="theme-card">
     <span class="icon">🛡️</span>
-    <h3>Theme 2: Reliable & Low-cost AI</h3>
-    <p>Short description of the problem and your contribution.</p>
-    <ul>
+    <h3>Theme 2: <a href="/smartai/">Reliable & Low-cost AI</a></h3>
+    <p>Building AI that performs reliably under real-world conditions, without the heavy computational and financial overhead that limits deployment.</p>
+    <!--<ul>
       <li><a href="#">Author et al., Venue Year</a></li>
     </ul>
+    -->
   </div>
 
   <div class="theme-card">
     <span class="icon">⚛️</span>
-    <h3>Theme 3: Quantum AI</h3>
-    <p>Short description of the applied angle and impact.</p>
-    <ul>
+    <h3>Theme 3: <a href="/qai/">Quantum AI</a></h3>
+    <p>Researching quantum approaches to machine learning, probing where and how they can outperform classical methods in effectiveness and efficiency.</p>
+    <!--<ul>
       <li><a href="#">Author et al., Venue Year</a></li>
-    </ul>
+    </ul>-->
   </div>
 
   <div class="theme-card">
     <span class="icon">🚀</span>
-    <h3>Theme 4: AI Applications</h3>
-    <p>Short description of the applied angle and impact.</p>
-    <ul>
+    <h3>Theme 4: <a href="/app/">AI Applications</a></h3>
+    <p>Applying advances in AI to tackle practical challenges and advance ... science, healthcare, economy, and autonomous systems.</p>
+    <!--<ul>
       <li><a href="#">Author et al., Venue Year</a></li>
     </ul>
+    -->
   </div>
 
 </div>
