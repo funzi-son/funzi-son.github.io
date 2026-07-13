@@ -159,7 +159,7 @@ redirect_from:
 I am always interested in working with motivated students. If you are interested in doing research with me, please <a class="res-btn" href="mailto:sonn.tran@deakin.edu.au">send your CV through→</a>.
 
 **For PhD applicants:** please ensure you meet the following before reaching out:
-- At least one first-author paper published in an A/A*/Q1-ranked venue
+- Minimum WAM of 80% (and you should have least one first-author paper published in an A/A*/Q1-ranked venue)
 - IELTS score of 6.5 overall, with no band below 6.0 (for international applicants)
 
 
