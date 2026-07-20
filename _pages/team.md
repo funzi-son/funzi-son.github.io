@@ -177,7 +177,7 @@ author_profile: true
 
 -->
 <div class="role-section-title" markdown="0">
-  <span class="emoji">🎓</span> Current 
+  <!--<span class="emoji">🎓</span>--> Current 
 </div>
 
 <div class="member-grid" markdown="0">

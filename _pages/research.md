@@ -129,7 +129,7 @@ author_profile: true
 <div class="theme-grid" markdown="0">
 
   <div class="theme-card">
-    <span class="icon"></span>
+    <!--<span class="icon">🧠</span> -->
     <h3>Theme 1: <a href="#">NeuroSymbolic/Neural-Symbolic</a></h3>
     <p>Bridging neural networks and symbolic reasoning to create AI that not only performs well, but can explain and justify its decisions.</p>
     <!--<ul>
@@ -139,7 +139,7 @@ author_profile: true
   </div>
 
   <div class="theme-card">
-    <span class="icon"></span>
+    <!--<span class="icon">🛡️</span>-->
     <h3>Theme 2: <a href="#">Reliable & Low-cost AI</a></h3>
     <p>Building AI that performs reliably under real-world conditions, without the heavy computational and financial overhead that limits deployment.</p>
     <!--<ul>
@@ -149,7 +149,7 @@ author_profile: true
   </div>
 
   <div class="theme-card">
-    <span class="icon"></span>
+    <!--<span class="icon">⚛️</span>-->
     <h3>Theme 3: <a href="#">Quantum AI</a></h3>
     <p>Researching quantum approaches to machine learning, probing where and how they can outperform classical methods in effectiveness and efficiency.</p>
     <!--<ul>
@@ -158,7 +158,7 @@ author_profile: true
   </div>
 
   <div class="theme-card">
-    <span class="icon"></span>
+    <!--<span class="icon">🚀</span>-->
     <h3>Theme 4: <a href="#">AI Applications</a></h3>
     <p>Applying advances in AI to tackle practical challenges  and  drive progress across Science, Agriculture, Healthcare, and Autonomous Systems.</p>
     <!--<ul>

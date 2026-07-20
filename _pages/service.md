@@ -171,7 +171,7 @@ author_profile: true
 
   <div class="service-card">
     <div class="service-card-header">
-      <span class="emoji">🧑‍⚖️</span>
+      <!--<span class="emoji">🧑‍⚖️</span> -->
       <h3>Organizing Roles</h3>
       <!--<span class="count">[X]</span>-->
     </div>
