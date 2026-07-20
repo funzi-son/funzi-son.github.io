@@ -159,7 +159,7 @@ redirect_from:
 I am always interested in working with motivated students. If you are interested in doing research with me, please <a class="res-btn" href="mailto:sonn.tran@deakin.edu.au">send your CV through→</a>.
 
 **For PhD applicants:** please ensure you meet the following before reaching out:
-- Minimum WAM of 80% (and you should have least one first-author paper published in an A/A*/Q1-ranked venue to be competitive for scholarship)
+- Minimum WAM of 80% (and you should have least one first-author paper published in an A/A*/Q1-ranked venue to be competitive for scholarships)
 - IELTS score of 6.5 overall or above, with no band below 6.0 (for international applicants)
 
 
@@ -172,15 +172,15 @@ I am always interested in working with motivated students. If you are interested
   </div>
   <div class="timeline-item">
     <span class="date">Feb 2026</span>
-    <p>🚀 Started as a <i>High Degree Research Coordinator</i> at <i>Deakin University</i>.</p>
+    <p>Started as a <i>High Degree Research Coordinator</i> at <i>Deakin University</i>.</p>
   </div>
   <div class="timeline-item">
     <span class="date">Jan 2026</span>
-    <p>🎤 Gave a talk on <i>AI for Business Analytics</i> at <i>UEB Vietnam National University Hanoi</i>.</p>
+    <p>Gave a talk on <i>AI for Business Analytics</i> at <i>UEB Vietnam National University Hanoi</i>.</p>
   </div>
   <div class="timeline-item">
     <span class="date">Dec 2025</span>
-    <p>🏆 Received <it>Best Paper Award Honorable Mention</it> at <it>AJCAI 2025</it>.</p>
+    <p>Received <it>Best Paper Award Honorable Mention</it> at <it>AJCAI 2025</it>.</p>
   </div>
 </div>
 
