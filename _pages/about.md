@@ -166,6 +166,10 @@ I am always interested in working with motivated students. If you are interested
 ## News
 
 <div class="timeline" markdown="0">
+<div class="timeline-item">
+    <span class="date">May 2026</span>
+    <p> <i>KITDG: Knowledge-Infused Tabular Data Generation</i> accepted at <strong>CIKM 2026</strong>!</p>
+  </div>
   <div class="timeline-item">
     <span class="date">May 2026</span>
     <p> <i>KC-S2O: Kinematically Constrained Sequence-to-ODE for 3D Trajectory Forecasting</i> accepted at <strong>ECML 2026</strong>!</p>
