@@ -167,7 +167,7 @@ I am always interested in working with motivated students. If you are interested
 
 <div class="timeline" markdown="0">
 <div class="timeline-item">
-    <span class="date">May 2026</span>
+    <span class="date">Aug 2026</span>
     <p> <i>KITDG: Knowledge-Infused Tabular Data Generation</i> accepted at <strong>CIKM 2026</strong>!</p>
   </div>
   <div class="timeline-item">
