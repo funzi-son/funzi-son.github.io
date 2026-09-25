@@ -171,6 +171,10 @@ I am always interested in working with motivated students. If you are interested
     <p> <i>FerQ: Fermat Quotient Reformulation of High-Order Binary Optimizatio</i> accepted at <strong>NeurIPS 2026</strong>!</p>
   </div>
 <div class="timeline-item">
+    <span class="date">Sep 2026</span>
+    <p> <i>Joint Constraint and Threshold Recovery in Inverse Constrained Reinforcement Learning</i> accepted at <strong>AJCAI 2026</strong>!</p>
+  </div>
+<div class="timeline-item">
     <span class="date">Aug 2026</span>
     <p> <i>KITDG: Knowledge-Infused Tabular Data Generation</i> accepted at <strong>CIKM 2026</strong>!</p>
   </div>
