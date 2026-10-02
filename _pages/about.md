@@ -168,7 +168,7 @@ I am always interested in working with motivated students. If you are interested
 <div class="timeline" markdown="0">
 <div class="timeline-item">
     <span class="date">Sep 2026</span>
-    <p> <i>Transformer-based Kinematics-Informed Trajectory Estimator for 3D Trajectory Forecasting </i> accepted at <strong> Machine Learning Journal, and will be presented at ACML 2026 journal track</strong>!</p>
+    <p> <i>Transformer-based Kinematics-Informed Trajectory Estimator for 3D Trajectory Forecasting </i> accepted at <strong> Machine Learning Journal</strong>, and will be presented at <strong>ACML 2026 journal track</strong>!</p>
   </div>
 
 <div class="timeline-item">

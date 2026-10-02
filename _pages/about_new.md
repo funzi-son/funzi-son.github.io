@@ -98,6 +98,8 @@ author_profile: true
 ## News
 
 <div class="timeline" markdown="0">
+  {FerQ}: Fermat Quotient Reformulation of\\High-Order Binary Optimization
+
   <div class="timeline-item">
     <span class="date">May 2026</span>
     <p><i>KC-S2O: Kinematically Constrained Sequence-to-ODE for 3D Trajectory Forecasting</i> accepted at <strong>ECML 2026</strong>!</p>
