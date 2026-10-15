@@ -167,6 +167,11 @@ I am always interested in working with motivated students. If you are interested
 
 <div class="timeline" markdown="0">
 <div class="timeline-item">
+    <span class="date">Oct 2026</span>
+    <p> <i>Boundary-Focused Uncertainty for Annotation-Efficient Human-in-the-Loop Thyroid Cartilage Segmentation </i> accepted at <strong> WACV 2026</strong>!</p>
+  </div>
+
+<div class="timeline-item">
     <span class="date">Sep 2026</span>
     <p> <i>Transformer-based Kinematics-Informed Trajectory Estimator for 3D Trajectory Forecasting </i> accepted at <strong> Machine Learning Journal</strong>, and will be presented at <strong>ACML 2026 journal track</strong>!</p>
   </div>
